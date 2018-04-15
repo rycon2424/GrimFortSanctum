@@ -116,6 +116,7 @@ NavMeshSettings:
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 --- !u!1001 &9551873
 Prefab:
   m_ObjectHideFlags: 0
@@ -171,6 +172,8 @@ Transform:
 >>>>>>> parent of fabb288... TestRoom bijna klaar
 =======
 >>>>>>> parent of 98c87e8... mooiere kamer dan eerst
+=======
+>>>>>>> parent of f0e7fa2... Revert "Merge branch 'master' of https://github.com/rycon2424/GrimFortSanctum"
 --- !u!1001 &16603030
 Prefab:
   m_ObjectHideFlags: 0
@@ -221,6 +224,72 @@ Prefab:
 Transform:
   m_PrefabParentObject: {fileID: 470884, guid: 5c9fcce56ce141242b4795f96796d784, type: 2}
   m_PrefabInternal: {fileID: 16603030}
+--- !u!1001 &26497212
+Prefab:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 1350058665}
+    m_Modifications:
+    - target: {fileID: 456052, guid: 434417b606fbffd4da5311a70a4dd1da, type: 2}
+      propertyPath: m_LocalPosition.x
+      value: 0.8799063
+      objectReference: {fileID: 0}
+    - target: {fileID: 456052, guid: 434417b606fbffd4da5311a70a4dd1da, type: 2}
+      propertyPath: m_LocalPosition.y
+      value: 1.23
+      objectReference: {fileID: 0}
+    - target: {fileID: 456052, guid: 434417b606fbffd4da5311a70a4dd1da, type: 2}
+      propertyPath: m_LocalPosition.z
+      value: -0.9441528
+      objectReference: {fileID: 0}
+    - target: {fileID: 456052, guid: 434417b606fbffd4da5311a70a4dd1da, type: 2}
+      propertyPath: m_LocalRotation.x
+      value: -0.19559398
+      objectReference: {fileID: 0}
+    - target: {fileID: 456052, guid: 434417b606fbffd4da5311a70a4dd1da, type: 2}
+      propertyPath: m_LocalRotation.y
+      value: -0.4870501
+      objectReference: {fileID: 0}
+    - target: {fileID: 456052, guid: 434417b606fbffd4da5311a70a4dd1da, type: 2}
+      propertyPath: m_LocalRotation.z
+      value: -0.1129165
+      objectReference: {fileID: 0}
+    - target: {fileID: 456052, guid: 434417b606fbffd4da5311a70a4dd1da, type: 2}
+      propertyPath: m_LocalRotation.w
+      value: 0.8436677
+      objectReference: {fileID: 0}
+    - target: {fileID: 456052, guid: 434417b606fbffd4da5311a70a4dd1da, type: 2}
+      propertyPath: m_RootOrder
+      value: 5
+      objectReference: {fileID: 0}
+    - target: {fileID: 456052, guid: 434417b606fbffd4da5311a70a4dd1da, type: 2}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: -26.105001
+      objectReference: {fileID: 0}
+    - target: {fileID: 456052, guid: 434417b606fbffd4da5311a70a4dd1da, type: 2}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: -59.996002
+      objectReference: {fileID: 0}
+    - target: {fileID: 456052, guid: 434417b606fbffd4da5311a70a4dd1da, type: 2}
+      propertyPath: m_LocalScale.x
+      value: 0.12422327
+      objectReference: {fileID: 0}
+    - target: {fileID: 456052, guid: 434417b606fbffd4da5311a70a4dd1da, type: 2}
+      propertyPath: m_LocalScale.y
+      value: 0.12422325
+      objectReference: {fileID: 0}
+    - target: {fileID: 456052, guid: 434417b606fbffd4da5311a70a4dd1da, type: 2}
+      propertyPath: m_LocalScale.z
+      value: 0.124223284
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_ParentPrefab: {fileID: 100100000, guid: 434417b606fbffd4da5311a70a4dd1da, type: 2}
+  m_IsPrefabParent: 0
+--- !u!4 &26497213 stripped
+Transform:
+  m_PrefabParentObject: {fileID: 456052, guid: 434417b606fbffd4da5311a70a4dd1da, type: 2}
+  m_PrefabInternal: {fileID: 26497212}
 --- !u!1001 &56722387
 <<<<<<< HEAD
 Prefab:
@@ -268,6 +337,7 @@ Prefab:
 Transform:
   m_PrefabParentObject: {fileID: 453932, guid: afb3a810580d951408d34206296996c1, type: 2}
   m_PrefabInternal: {fileID: 56722387}
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 --- !u!1001 &92565195
@@ -325,6 +395,8 @@ Transform:
   m_PrefabInternal: {fileID: 373136702}
 =======
 >>>>>>> parent of fabb288... TestRoom bijna klaar
+=======
+>>>>>>> parent of f0e7fa2... Revert "Merge branch 'master' of https://github.com/rycon2424/GrimFortSanctum"
 --- !u!1001 &111980596
 Prefab:
   m_ObjectHideFlags: 0
@@ -383,12 +455,15 @@ Prefab:
 Transform:
   m_PrefabParentObject: {fileID: 420158, guid: 99272484fea26594a8ed43992df88cc8, type: 2}
   m_PrefabInternal: {fileID: 111980596}
+<<<<<<< HEAD
 =======
 >>>>>>> f0e7fa2b1552fb70a2ec9364178dd7676b42d893
 =======
   m_PrefabParentObject: {fileID: 453932, guid: afb3a810580d951408d34206296996c1, type: 2}
   m_PrefabInternal: {fileID: 56722387}
 >>>>>>> parent of 98c87e8... mooiere kamer dan eerst
+=======
+>>>>>>> parent of f0e7fa2... Revert "Merge branch 'master' of https://github.com/rycon2424/GrimFortSanctum"
 --- !u!1001 &132644890
 Prefab:
   m_ObjectHideFlags: 0
@@ -1240,6 +1315,7 @@ Transform:
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 --- !u!4 &637916944 stripped
 Transform:
   m_PrefabParentObject: {fileID: 460678, guid: 79646652f63865f4185986c750a93b72, type: 2}
@@ -1300,6 +1376,8 @@ Prefab:
   m_IsPrefabParent: 0
 =======
 >>>>>>> parent of fabb288... TestRoom bijna klaar
+=======
+>>>>>>> parent of f0e7fa2... Revert "Merge branch 'master' of https://github.com/rycon2424/GrimFortSanctum"
 --- !u!1001 &679907119
 Prefab:
   m_ObjectHideFlags: 0
@@ -1351,6 +1429,7 @@ Transform:
   m_PrefabParentObject: {fileID: 420392, guid: ab4ced4914b68784d8bf02aba7918f90, type: 2}
   m_PrefabInternal: {fileID: 679907119}
 <<<<<<< HEAD
+<<<<<<< HEAD
 --- !u!1001 &703857890
 =======
 =======
@@ -1358,6 +1437,8 @@ Transform:
 --- !u!1001 &720486487
 >>>>>>> f0e7fa2b1552fb70a2ec9364178dd7676b42d893
 =======
+=======
+>>>>>>> parent of f0e7fa2... Revert "Merge branch 'master' of https://github.com/rycon2424/GrimFortSanctum"
 --- !u!1001 &720486487
 >>>>>>> parent of fabb288... TestRoom bijna klaar
 Prefab:
@@ -1797,6 +1878,7 @@ Transform:
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
   m_RootOrder: 28
 =======
   m_RootOrder: 8
@@ -1804,54 +1886,13 @@ Transform:
 =======
   m_RootOrder: 7
 >>>>>>> parent of 98c87e8... mooiere kamer dan eerst
+=======
+  m_RootOrder: 8
+>>>>>>> parent of f0e7fa2... Revert "Merge branch 'master' of https://github.com/rycon2424/GrimFortSanctum"
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!1 &860497410
-GameObject:
-  m_ObjectHideFlags: 0
-  m_PrefabParentObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 0}
-  serializedVersion: 5
-  m_Component:
-  - component: {fileID: 860497413}
-  - component: {fileID: 860497412}
-  - component: {fileID: 860497411}
-  m_Layer: 0
-  m_Name: Pencil
-  m_TagString: Untagged
-  m_Icon: {fileID: 0}
-  m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
-  m_IsActive: 1
---- !u!54 &860497411
-Rigidbody:
-  m_ObjectHideFlags: 0
-  m_PrefabParentObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 0}
-  m_GameObject: {fileID: 860497410}
-  serializedVersion: 2
-  m_Mass: 1
-  m_Drag: 0
-  m_AngularDrag: 0.05
-  m_UseGravity: 1
-  m_IsKinematic: 0
-  m_Interpolate: 0
-  m_Constraints: 0
-  m_CollisionDetection: 0
---- !u!136 &860497412
-CapsuleCollider:
-  m_ObjectHideFlags: 0
-  m_PrefabParentObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 0}
-  m_GameObject: {fileID: 860497410}
-  m_Material: {fileID: 0}
-  m_IsTrigger: 0
-  m_Enabled: 1
-  m_Radius: 0.5
-  m_Height: 16.028643
-  m_Direction: 2
-  m_Center: {x: 0, y: 0, z: -1.0167837}
---- !u!4 &860497413
+--- !u!4 &860497413 stripped
 Transform:
+<<<<<<< HEAD
 <<<<<<< HEAD
   m_PrefabParentObject: {fileID: 4838495750395212, guid: d32d14c68c04c674b93f66e32c0a1c63,
     type: 2}
@@ -1907,6 +1948,12 @@ Prefab:
   m_RootOrder: 7
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &860497410
+=======
+  m_PrefabParentObject: {fileID: 4838495750395212, guid: d32d14c68c04c674b93f66e32c0a1c63,
+    type: 2}
+  m_PrefabInternal: {fileID: 877164896}
+--- !u!1 &876004942
+>>>>>>> parent of f0e7fa2... Revert "Merge branch 'master' of https://github.com/rycon2424/GrimFortSanctum"
 GameObject:
   m_ObjectHideFlags: 0
   m_PrefabParentObject: {fileID: 0}
@@ -2017,6 +2064,7 @@ Transform:
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
   m_RootOrder: 32
 =======
   m_RootOrder: 9
@@ -2027,75 +2075,62 @@ Transform:
 =======
   m_RootOrder: 9
 >>>>>>> parent of 98c87e8... mooiere kamer dan eerst
+=======
+  m_RootOrder: 10
+>>>>>>> parent of f0e7fa2... Revert "Merge branch 'master' of https://github.com/rycon2424/GrimFortSanctum"
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!4 &898187108 stripped
-Transform:
-  m_PrefabParentObject: {fileID: 454382, guid: 0a163724c297a9443b380c1010de89f9, type: 2}
-  m_PrefabInternal: {fileID: 1480197696}
---- !u!1001 &908640744
+--- !u!1001 &877164896
 Prefab:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Modification:
-    m_TransformParent: {fileID: 860497413}
+    m_TransformParent: {fileID: 1350058665}
     m_Modifications:
-    - target: {fileID: 457248, guid: e74e546c0dc2e68429a1bdd74b45709e, type: 2}
+    - target: {fileID: 4838495750395212, guid: d32d14c68c04c674b93f66e32c0a1c63, type: 2}
       propertyPath: m_LocalPosition.x
-      value: 0
+      value: 10.476605
       objectReference: {fileID: 0}
-    - target: {fileID: 457248, guid: e74e546c0dc2e68429a1bdd74b45709e, type: 2}
+    - target: {fileID: 4838495750395212, guid: d32d14c68c04c674b93f66e32c0a1c63, type: 2}
       propertyPath: m_LocalPosition.y
-      value: 0
+      value: 1.0662588
       objectReference: {fileID: 0}
-    - target: {fileID: 457248, guid: e74e546c0dc2e68429a1bdd74b45709e, type: 2}
+    - target: {fileID: 4838495750395212, guid: d32d14c68c04c674b93f66e32c0a1c63, type: 2}
       propertyPath: m_LocalPosition.z
-      value: 0
+      value: 7.1899133
       objectReference: {fileID: 0}
-    - target: {fileID: 457248, guid: e74e546c0dc2e68429a1bdd74b45709e, type: 2}
+    - target: {fileID: 4838495750395212, guid: d32d14c68c04c674b93f66e32c0a1c63, type: 2}
       propertyPath: m_LocalRotation.x
-      value: 0
+      value: -0.0020026842
       objectReference: {fileID: 0}
-    - target: {fileID: 457248, guid: e74e546c0dc2e68429a1bdd74b45709e, type: 2}
+    - target: {fileID: 4838495750395212, guid: d32d14c68c04c674b93f66e32c0a1c63, type: 2}
       propertyPath: m_LocalRotation.y
-      value: 0.23344536
+      value: 0.000055107914
       objectReference: {fileID: 0}
-    - target: {fileID: 457248, guid: e74e546c0dc2e68429a1bdd74b45709e, type: 2}
+    - target: {fileID: 4838495750395212, guid: d32d14c68c04c674b93f66e32c0a1c63, type: 2}
       propertyPath: m_LocalRotation.z
-      value: 0
+      value: 0.04639362
       objectReference: {fileID: 0}
-    - target: {fileID: 457248, guid: e74e546c0dc2e68429a1bdd74b45709e, type: 2}
+    - target: {fileID: 4838495750395212, guid: d32d14c68c04c674b93f66e32c0a1c63, type: 2}
       propertyPath: m_LocalRotation.w
-      value: 0.97236997
+      value: 0.9989213
       objectReference: {fileID: 0}
-    - target: {fileID: 457248, guid: e74e546c0dc2e68429a1bdd74b45709e, type: 2}
+    - target: {fileID: 4838495750395212, guid: d32d14c68c04c674b93f66e32c0a1c63, type: 2}
       propertyPath: m_RootOrder
       value: 0
       objectReference: {fileID: 0}
-    - target: {fileID: 457248, guid: e74e546c0dc2e68429a1bdd74b45709e, type: 2}
-      propertyPath: m_LocalScale.x
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 457248, guid: e74e546c0dc2e68429a1bdd74b45709e, type: 2}
-      propertyPath: m_LocalScale.y
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 457248, guid: e74e546c0dc2e68429a1bdd74b45709e, type: 2}
-      propertyPath: m_LocalScale.z
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 457248, guid: e74e546c0dc2e68429a1bdd74b45709e, type: 2}
-      propertyPath: m_LocalEulerAnglesHint.y
-      value: 27
-      objectReference: {fileID: 0}
     m_RemovedComponents: []
-  m_ParentPrefab: {fileID: 100100000, guid: e74e546c0dc2e68429a1bdd74b45709e, type: 2}
+  m_ParentPrefab: {fileID: 100100000, guid: d32d14c68c04c674b93f66e32c0a1c63, type: 2}
   m_IsPrefabParent: 0
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> parent of f0e7fa2... Revert "Merge branch 'master' of https://github.com/rycon2424/GrimFortSanctum"
 --- !u!4 &898187108 stripped
 Transform:
   m_PrefabParentObject: {fileID: 454382, guid: 0a163724c297a9443b380c1010de89f9, type: 2}
   m_PrefabInternal: {fileID: 1480197696}
+<<<<<<< HEAD
 <<<<<<< HEAD
 --- !u!1001 &905583856
 Prefab:
@@ -2149,6 +2184,8 @@ Prefab:
 >>>>>>> parent of fabb288... TestRoom bijna klaar
 =======
 >>>>>>> parent of 98c87e8... mooiere kamer dan eerst
+=======
+>>>>>>> parent of f0e7fa2... Revert "Merge branch 'master' of https://github.com/rycon2424/GrimFortSanctum"
 --- !u!1001 &914736025
 Prefab:
   m_ObjectHideFlags: 0
@@ -2368,56 +2405,45 @@ Prefab:
   m_Modification:
     m_TransformParent: {fileID: 1350058665}
     m_Modifications:
-    - target: {fileID: 497050, guid: 8555b5e3674ee2a49b8206c8ce692744, type: 2}
+    - target: {fileID: 4573051959629174, guid: f53dedfa373185d429fdb0f37a667eec, type: 2}
       propertyPath: m_LocalPosition.x
       value: 9.825
       objectReference: {fileID: 0}
-    - target: {fileID: 497050, guid: 8555b5e3674ee2a49b8206c8ce692744, type: 2}
+    - target: {fileID: 4573051959629174, guid: f53dedfa373185d429fdb0f37a667eec, type: 2}
       propertyPath: m_LocalPosition.y
       value: 1.0474157
       objectReference: {fileID: 0}
-    - target: {fileID: 497050, guid: 8555b5e3674ee2a49b8206c8ce692744, type: 2}
+    - target: {fileID: 4573051959629174, guid: f53dedfa373185d429fdb0f37a667eec, type: 2}
       propertyPath: m_LocalPosition.z
       value: 7.502
       objectReference: {fileID: 0}
-    - target: {fileID: 497050, guid: 8555b5e3674ee2a49b8206c8ce692744, type: 2}
+    - target: {fileID: 4573051959629174, guid: f53dedfa373185d429fdb0f37a667eec, type: 2}
       propertyPath: m_LocalRotation.x
       value: -0
       objectReference: {fileID: 0}
-    - target: {fileID: 497050, guid: 8555b5e3674ee2a49b8206c8ce692744, type: 2}
+    - target: {fileID: 4573051959629174, guid: f53dedfa373185d429fdb0f37a667eec, type: 2}
       propertyPath: m_LocalRotation.y
       value: 0.9659254
       objectReference: {fileID: 0}
-    - target: {fileID: 497050, guid: 8555b5e3674ee2a49b8206c8ce692744, type: 2}
+    - target: {fileID: 4573051959629174, guid: f53dedfa373185d429fdb0f37a667eec, type: 2}
       propertyPath: m_LocalRotation.z
       value: -0
       objectReference: {fileID: 0}
-    - target: {fileID: 497050, guid: 8555b5e3674ee2a49b8206c8ce692744, type: 2}
+    - target: {fileID: 4573051959629174, guid: f53dedfa373185d429fdb0f37a667eec, type: 2}
       propertyPath: m_LocalRotation.w
       value: 0.25882068
       objectReference: {fileID: 0}
-    - target: {fileID: 497050, guid: 8555b5e3674ee2a49b8206c8ce692744, type: 2}
+    - target: {fileID: 4573051959629174, guid: f53dedfa373185d429fdb0f37a667eec, type: 2}
       propertyPath: m_RootOrder
       value: 1
       objectReference: {fileID: 0}
-    - target: {fileID: 497050, guid: 8555b5e3674ee2a49b8206c8ce692744, type: 2}
-      propertyPath: m_LocalEulerAnglesHint.y
-      value: 150
-      objectReference: {fileID: 0}
-    - target: {fileID: 497050, guid: 8555b5e3674ee2a49b8206c8ce692744, type: 2}
-      propertyPath: m_LocalScale.x
-      value: 0.0100000035
-      objectReference: {fileID: 0}
-    - target: {fileID: 497050, guid: 8555b5e3674ee2a49b8206c8ce692744, type: 2}
-      propertyPath: m_LocalScale.z
-      value: 0.0100000035
-      objectReference: {fileID: 0}
     m_RemovedComponents: []
-  m_ParentPrefab: {fileID: 100100000, guid: 8555b5e3674ee2a49b8206c8ce692744, type: 2}
+  m_ParentPrefab: {fileID: 100100000, guid: f53dedfa373185d429fdb0f37a667eec, type: 2}
   m_IsPrefabParent: 0
 --- !u!4 &997111925 stripped
 Transform:
-  m_PrefabParentObject: {fileID: 497050, guid: 8555b5e3674ee2a49b8206c8ce692744, type: 2}
+  m_PrefabParentObject: {fileID: 4573051959629174, guid: f53dedfa373185d429fdb0f37a667eec,
+    type: 2}
   m_PrefabInternal: {fileID: 997111924}
 --- !u!1001 &1004313700
 Prefab:
@@ -2842,6 +2868,7 @@ Transform:
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
   m_RootOrder: 26
 =======
   m_RootOrder: 5
@@ -2852,38 +2879,10 @@ Transform:
 =======
   m_RootOrder: 5
 >>>>>>> parent of 98c87e8... mooiere kamer dan eerst
+=======
+  m_RootOrder: 6
+>>>>>>> parent of f0e7fa2... Revert "Merge branch 'master' of https://github.com/rycon2424/GrimFortSanctum"
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!1 &1180121338 stripped
-GameObject:
-  m_PrefabParentObject: {fileID: 136380, guid: 92794c55695387544b0181380f46d6ec, type: 2}
-  m_PrefabInternal: {fileID: 2096280097}
---- !u!54 &1180121341
-Rigidbody:
-  m_ObjectHideFlags: 0
-  m_PrefabParentObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 0}
-  m_GameObject: {fileID: 1180121338}
-  serializedVersion: 2
-  m_Mass: 1
-  m_Drag: 0
-  m_AngularDrag: 0.05
-  m_UseGravity: 1
-  m_IsKinematic: 0
-  m_Interpolate: 0
-  m_Constraints: 0
-  m_CollisionDetection: 0
---- !u!65 &1180121342
-BoxCollider:
-  m_ObjectHideFlags: 0
-  m_PrefabParentObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 0}
-  m_GameObject: {fileID: 1180121338}
-  m_Material: {fileID: 0}
-  m_IsTrigger: 0
-  m_Enabled: 1
-  serializedVersion: 2
-  m_Size: {x: 21.405848, y: 1.4860034, z: 33.262524}
-  m_Center: {x: 0, y: 0.09920001, z: 0}
 --- !u!4 &1223112924 stripped
 Transform:
   m_PrefabParentObject: {fileID: 427026, guid: 8cdaaac046ad650478307f51f1f7886e, type: 2}
@@ -2941,10 +2940,14 @@ Transform:
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 --- !u!1001 &1272038067
 =======
 --- !u!1001 &1284489085
 >>>>>>> parent of fabb288... TestRoom bijna klaar
+=======
+--- !u!1001 &1284489085
+>>>>>>> parent of f0e7fa2... Revert "Merge branch 'master' of https://github.com/rycon2424/GrimFortSanctum"
 Prefab:
   m_ObjectHideFlags: 0
   serializedVersion: 2
@@ -2987,11 +2990,14 @@ Prefab:
   m_ParentPrefab: {fileID: 100100000, guid: 69e2513b7eb2a5a4e9e6e57f72a30362, type: 2}
   m_IsPrefabParent: 0
 <<<<<<< HEAD
+<<<<<<< HEAD
 --- !u!1001 &1272072687
 =======
 --- !u!1001 &1290422632
 >>>>>>> f0e7fa2b1552fb70a2ec9364178dd7676b42d893
 =======
+=======
+>>>>>>> parent of f0e7fa2... Revert "Merge branch 'master' of https://github.com/rycon2424/GrimFortSanctum"
 --- !u!1 &1284489086 stripped
 GameObject:
   m_PrefabParentObject: {fileID: 168534, guid: 69e2513b7eb2a5a4e9e6e57f72a30362, type: 2}
@@ -3023,8 +3029,11 @@ BoxCollider:
   serializedVersion: 2
   m_Size: {x: 9.86864, y: 16.568634, z: 9.672502}
   m_Center: {x: -0.00000047683716, y: 0, z: 0}
+<<<<<<< HEAD
 =======
 >>>>>>> parent of 98c87e8... mooiere kamer dan eerst
+=======
+>>>>>>> parent of f0e7fa2... Revert "Merge branch 'master' of https://github.com/rycon2424/GrimFortSanctum"
 --- !u!1001 &1290422632
 >>>>>>> parent of fabb288... TestRoom bijna klaar
 Prefab:
@@ -3138,6 +3147,7 @@ Transform:
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
   m_RootOrder: 22
 =======
   m_RootOrder: 3
@@ -3236,6 +3246,95 @@ Transform:
   m_RootOrder: 2
   m_LocalEulerAnglesHint: {x: 50, y: -30, z: 0}
 >>>>>>> parent of 98c87e8... mooiere kamer dan eerst
+=======
+  m_RootOrder: 3
+  m_LocalEulerAnglesHint: {x: 50, y: -30, z: 0}
+--- !u!1001 &1307998393
+Prefab:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 1350058665}
+    m_Modifications:
+    - target: {fileID: 446964, guid: 9d8dcfc962f6a894ca2095893a24cf07, type: 2}
+      propertyPath: m_LocalPosition.x
+      value: 9.178
+      objectReference: {fileID: 0}
+    - target: {fileID: 446964, guid: 9d8dcfc962f6a894ca2095893a24cf07, type: 2}
+      propertyPath: m_LocalPosition.y
+      value: 0.9410124
+      objectReference: {fileID: 0}
+    - target: {fileID: 446964, guid: 9d8dcfc962f6a894ca2095893a24cf07, type: 2}
+      propertyPath: m_LocalPosition.z
+      value: -0.044
+      objectReference: {fileID: 0}
+    - target: {fileID: 446964, guid: 9d8dcfc962f6a894ca2095893a24cf07, type: 2}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 446964, guid: 9d8dcfc962f6a894ca2095893a24cf07, type: 2}
+      propertyPath: m_LocalRotation.y
+      value: -0.98669213
+      objectReference: {fileID: 0}
+    - target: {fileID: 446964, guid: 9d8dcfc962f6a894ca2095893a24cf07, type: 2}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 446964, guid: 9d8dcfc962f6a894ca2095893a24cf07, type: 2}
+      propertyPath: m_LocalRotation.w
+      value: 0.16259964
+      objectReference: {fileID: 0}
+    - target: {fileID: 446964, guid: 9d8dcfc962f6a894ca2095893a24cf07, type: 2}
+      propertyPath: m_RootOrder
+      value: 4
+      objectReference: {fileID: 0}
+    - target: {fileID: 446964, guid: 9d8dcfc962f6a894ca2095893a24cf07, type: 2}
+      propertyPath: m_LocalScale.x
+      value: 0.009999998
+      objectReference: {fileID: 0}
+    - target: {fileID: 446964, guid: 9d8dcfc962f6a894ca2095893a24cf07, type: 2}
+      propertyPath: m_LocalScale.z
+      value: 0.009999998
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_ParentPrefab: {fileID: 100100000, guid: 9d8dcfc962f6a894ca2095893a24cf07, type: 2}
+  m_IsPrefabParent: 0
+--- !u!1 &1307998394 stripped
+GameObject:
+  m_PrefabParentObject: {fileID: 123600, guid: 9d8dcfc962f6a894ca2095893a24cf07, type: 2}
+  m_PrefabInternal: {fileID: 1307998393}
+--- !u!54 &1307998395
+Rigidbody:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 1307998394}
+  serializedVersion: 2
+  m_Mass: 1
+  m_Drag: 0
+  m_AngularDrag: 0.05
+  m_UseGravity: 1
+  m_IsKinematic: 0
+  m_Interpolate: 0
+  m_Constraints: 0
+  m_CollisionDetection: 0
+--- !u!65 &1307998396
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 1307998394}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 31.006546, y: 0.21351379, z: 8.585899}
+  m_Center: {x: 0, y: -0.0000014156103, z: 0}
+--- !u!4 &1307998397 stripped
+Transform:
+  m_PrefabParentObject: {fileID: 446964, guid: 9d8dcfc962f6a894ca2095893a24cf07, type: 2}
+  m_PrefabInternal: {fileID: 1307998393}
+>>>>>>> parent of f0e7fa2... Revert "Merge branch 'master' of https://github.com/rycon2424/GrimFortSanctum"
 --- !u!1001 &1317179405
 Prefab:
   m_ObjectHideFlags: 0
@@ -3429,6 +3528,7 @@ Transform:
   - {fileID: 2096280098}
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
   - {fileID: 1307998397}
   - {fileID: 26497213}
 <<<<<<< HEAD
@@ -3446,6 +3546,10 @@ Transform:
 >>>>>>> parent of fabb288... TestRoom bijna klaar
 =======
 >>>>>>> parent of 98c87e8... mooiere kamer dan eerst
+=======
+  - {fileID: 1307998397}
+  - {fileID: 26497213}
+>>>>>>> parent of f0e7fa2... Revert "Merge branch 'master' of https://github.com/rycon2424/GrimFortSanctum"
   m_Father: {fileID: 1997175171}
   m_RootOrder: 1
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
@@ -3503,6 +3607,7 @@ Transform:
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
   m_RootOrder: 23
 =======
   m_RootOrder: 3
@@ -3513,6 +3618,9 @@ Transform:
 =======
   m_RootOrder: 3
 >>>>>>> parent of 98c87e8... mooiere kamer dan eerst
+=======
+  m_RootOrder: 4
+>>>>>>> parent of f0e7fa2... Revert "Merge branch 'master' of https://github.com/rycon2424/GrimFortSanctum"
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1001 &1405977609
 Prefab:
@@ -3729,6 +3837,7 @@ Prefab:
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 --- !u!1001 &1522559847
 Prefab:
   m_ObjectHideFlags: 0
@@ -3793,6 +3902,8 @@ Transform:
   m_PrefabInternal: {fileID: 1522559847}
 =======
 >>>>>>> parent of fabb288... TestRoom bijna klaar
+=======
+>>>>>>> parent of f0e7fa2... Revert "Merge branch 'master' of https://github.com/rycon2424/GrimFortSanctum"
 --- !u!1001 &1530588107
 Prefab:
   m_ObjectHideFlags: 0
@@ -3890,17 +4001,23 @@ Prefab:
   m_ParentPrefab: {fileID: 100100000, guid: 815d7be770ecebf4fab949961c955692, type: 2}
   m_IsPrefabParent: 0
 <<<<<<< HEAD
+<<<<<<< HEAD
 --- !u!1001 &1573021569
 =======
 --- !u!1001 &1631921647
 >>>>>>> f0e7fa2b1552fb70a2ec9364178dd7676b42d893
 =======
+=======
+>>>>>>> parent of f0e7fa2... Revert "Merge branch 'master' of https://github.com/rycon2424/GrimFortSanctum"
 --- !u!4 &1595588267 stripped
 Transform:
   m_PrefabParentObject: {fileID: 432976, guid: 815d7be770ecebf4fab949961c955692, type: 2}
   m_PrefabInternal: {fileID: 1595588266}
+<<<<<<< HEAD
 =======
 >>>>>>> parent of 98c87e8... mooiere kamer dan eerst
+=======
+>>>>>>> parent of f0e7fa2... Revert "Merge branch 'master' of https://github.com/rycon2424/GrimFortSanctum"
 --- !u!1001 &1631921647
 >>>>>>> parent of fabb288... TestRoom bijna klaar
 Prefab:
@@ -4192,6 +4309,7 @@ Transform:
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
   - {fileID: 619599651}
 =======
 >>>>>>> parent of fabb288... TestRoom bijna klaar
@@ -4210,6 +4328,11 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 6
 >>>>>>> parent of 98c87e8... mooiere kamer dan eerst
+=======
+  - {fileID: 1595588267}
+  m_Father: {fileID: 0}
+  m_RootOrder: 7
+>>>>>>> parent of f0e7fa2... Revert "Merge branch 'master' of https://github.com/rycon2424/GrimFortSanctum"
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1001 &1745925615
 Prefab:
@@ -4346,6 +4469,7 @@ Transform:
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
   m_RootOrder: 24
 =======
   m_RootOrder: 4
@@ -4356,6 +4480,9 @@ Transform:
 =======
   m_RootOrder: 4
 >>>>>>> parent of 98c87e8... mooiere kamer dan eerst
+=======
+  m_RootOrder: 5
+>>>>>>> parent of f0e7fa2... Revert "Merge branch 'master' of https://github.com/rycon2424/GrimFortSanctum"
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1001 &1841341549
 Prefab:
@@ -4464,6 +4591,7 @@ Transform:
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 --- !u!1001 &1861030173
 Prefab:
   m_ObjectHideFlags: 0
@@ -4512,6 +4640,8 @@ Transform:
   m_PrefabInternal: {fileID: 1018684611}
 =======
 >>>>>>> parent of fabb288... TestRoom bijna klaar
+=======
+>>>>>>> parent of f0e7fa2... Revert "Merge branch 'master' of https://github.com/rycon2424/GrimFortSanctum"
 --- !u!1001 &1865513523
 Prefab:
   m_ObjectHideFlags: 0
@@ -4578,10 +4708,13 @@ Prefab:
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: 80565fbeae15fa746956cf545776c7d6, type: 2}
   m_IsPrefabParent: 0
+<<<<<<< HEAD
 =======
 >>>>>>> f0e7fa2b1552fb70a2ec9364178dd7676b42d893
 =======
 >>>>>>> parent of 98c87e8... mooiere kamer dan eerst
+=======
+>>>>>>> parent of f0e7fa2... Revert "Merge branch 'master' of https://github.com/rycon2424/GrimFortSanctum"
 --- !u!1001 &1868963187
 Prefab:
   m_ObjectHideFlags: 0
@@ -4722,6 +4855,7 @@ Transform:
   - {fileID: 1223112924}
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
   - {fileID: 1530588108}
   - {fileID: 679907120}
   - {fileID: 111980597}
@@ -4737,6 +4871,11 @@ Transform:
 >>>>>>> parent of fabb288... TestRoom bijna klaar
 =======
 >>>>>>> parent of 98c87e8... mooiere kamer dan eerst
+=======
+  - {fileID: 1530588108}
+  - {fileID: 679907120}
+  - {fileID: 111980597}
+>>>>>>> parent of f0e7fa2... Revert "Merge branch 'master' of https://github.com/rycon2424/GrimFortSanctum"
   m_Father: {fileID: 1997175171}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
@@ -4871,6 +5010,7 @@ Transform:
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
   m_RootOrder: 31
 =======
   m_RootOrder: 8
@@ -4881,6 +5021,9 @@ Transform:
 =======
   m_RootOrder: 8
 >>>>>>> parent of 98c87e8... mooiere kamer dan eerst
+=======
+  m_RootOrder: 9
+>>>>>>> parent of f0e7fa2... Revert "Merge branch 'master' of https://github.com/rycon2424/GrimFortSanctum"
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1001 &1999847009
 Prefab:
@@ -5048,54 +5191,43 @@ Prefab:
   m_Modification:
     m_TransformParent: {fileID: 1350058665}
     m_Modifications:
-    - target: {fileID: 488980, guid: 92794c55695387544b0181380f46d6ec, type: 2}
+    - target: {fileID: 4818632030382012, guid: cee0baf927b4cc447a306b5b34c639bd, type: 2}
       propertyPath: m_LocalPosition.x
       value: 10.519
       objectReference: {fileID: 0}
-    - target: {fileID: 488980, guid: 92794c55695387544b0181380f46d6ec, type: 2}
+    - target: {fileID: 4818632030382012, guid: cee0baf927b4cc447a306b5b34c639bd, type: 2}
       propertyPath: m_LocalPosition.y
       value: 1.0474157
       objectReference: {fileID: 0}
-    - target: {fileID: 488980, guid: 92794c55695387544b0181380f46d6ec, type: 2}
+    - target: {fileID: 4818632030382012, guid: cee0baf927b4cc447a306b5b34c639bd, type: 2}
       propertyPath: m_LocalPosition.z
       value: 7.205
       objectReference: {fileID: 0}
-    - target: {fileID: 488980, guid: 92794c55695387544b0181380f46d6ec, type: 2}
+    - target: {fileID: 4818632030382012, guid: cee0baf927b4cc447a306b5b34c639bd, type: 2}
       propertyPath: m_LocalRotation.x
       value: -0
       objectReference: {fileID: 0}
-    - target: {fileID: 488980, guid: 92794c55695387544b0181380f46d6ec, type: 2}
+    - target: {fileID: 4818632030382012, guid: cee0baf927b4cc447a306b5b34c639bd, type: 2}
       propertyPath: m_LocalRotation.y
       value: 0.99532485
       objectReference: {fileID: 0}
-    - target: {fileID: 488980, guid: 92794c55695387544b0181380f46d6ec, type: 2}
+    - target: {fileID: 4818632030382012, guid: cee0baf927b4cc447a306b5b34c639bd, type: 2}
       propertyPath: m_LocalRotation.z
       value: -0
       objectReference: {fileID: 0}
-    - target: {fileID: 488980, guid: 92794c55695387544b0181380f46d6ec, type: 2}
+    - target: {fileID: 4818632030382012, guid: cee0baf927b4cc447a306b5b34c639bd, type: 2}
       propertyPath: m_LocalRotation.w
       value: 0.09658418
       objectReference: {fileID: 0}
-    - target: {fileID: 488980, guid: 92794c55695387544b0181380f46d6ec, type: 2}
+    - target: {fileID: 4818632030382012, guid: cee0baf927b4cc447a306b5b34c639bd, type: 2}
       propertyPath: m_RootOrder
       value: 3
       objectReference: {fileID: 0}
-    - target: {fileID: 488980, guid: 92794c55695387544b0181380f46d6ec, type: 2}
-      propertyPath: m_LocalEulerAnglesHint.y
-      value: 168.915
-      objectReference: {fileID: 0}
-    - target: {fileID: 488980, guid: 92794c55695387544b0181380f46d6ec, type: 2}
-      propertyPath: m_LocalScale.x
-      value: 0.010000013
-      objectReference: {fileID: 0}
-    - target: {fileID: 488980, guid: 92794c55695387544b0181380f46d6ec, type: 2}
-      propertyPath: m_LocalScale.z
-      value: 0.010000013
-      objectReference: {fileID: 0}
     m_RemovedComponents: []
-  m_ParentPrefab: {fileID: 100100000, guid: 92794c55695387544b0181380f46d6ec, type: 2}
+  m_ParentPrefab: {fileID: 100100000, guid: cee0baf927b4cc447a306b5b34c639bd, type: 2}
   m_IsPrefabParent: 0
 --- !u!4 &2096280098 stripped
 Transform:
-  m_PrefabParentObject: {fileID: 488980, guid: 92794c55695387544b0181380f46d6ec, type: 2}
+  m_PrefabParentObject: {fileID: 4818632030382012, guid: cee0baf927b4cc447a306b5b34c639bd,
+    type: 2}
   m_PrefabInternal: {fileID: 2096280097}

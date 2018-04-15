@@ -44,17 +44,21 @@ MonoBehaviour:
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
     height: 997
   m_MinSize: {x: 950, y: 300}
   m_MaxSize: {x: 10000, y: 10000}
 =======
 =======
 >>>>>>> parent of fabb288... TestRoom bijna klaar
+=======
+>>>>>>> parent of f0e7fa2... Revert "Merge branch 'master' of https://github.com/rycon2424/GrimFortSanctum"
     height: 948
   m_MinSize: {x: 681, y: 492}
   m_MaxSize: {x: 14004, y: 14042}
   vertical: 0
   controlID: 9
+<<<<<<< HEAD
 <<<<<<< HEAD
 >>>>>>> f0e7fa2b1552fb70a2ec9364178dd7676b42d893
 =======
@@ -79,6 +83,15 @@ MonoBehaviour:
   controlID: 2261
 >>>>>>> 26c5d407b3a2bace32a3a740f0abb7bb1cc89cc0
 >>>>>>> parent of 98c87e8... mooiere kamer dan eerst
+=======
+=======
+    height: 947
+  m_MinSize: {x: 681, y: 492}
+  m_MaxSize: {x: 14004, y: 14042}
+  vertical: 0
+  controlID: 121
+>>>>>>> 98c87e86ebc9b61c15a14e80aab05acf64a10e9e
+>>>>>>> parent of f0e7fa2... Revert "Merge branch 'master' of https://github.com/rycon2424/GrimFortSanctum"
 --- !u!114 &3
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -108,7 +121,10 @@ MonoBehaviour:
     width: 389
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 >>>>>>> parent of fabb288... TestRoom bijna klaar
+=======
+>>>>>>> parent of f0e7fa2... Revert "Merge branch 'master' of https://github.com/rycon2424/GrimFortSanctum"
     height: 948
   m_MinSize: {x: 277, y: 71}
   m_MaxSize: {x: 4002, y: 4021}
@@ -116,6 +132,17 @@ MonoBehaviour:
   m_Panes:
   - {fileID: 15}
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+=======
+    height: 947
+  m_MinSize: {x: 277, y: 71}
+  m_MaxSize: {x: 4002, y: 4021}
+  m_ActualView: {fileID: 14}
+  m_Panes:
+  - {fileID: 14}
+>>>>>>> 98c87e86ebc9b61c15a14e80aab05acf64a10e9e
+>>>>>>> parent of f0e7fa2... Revert "Merge branch 'master' of https://github.com/rycon2424/GrimFortSanctum"
   m_Selected: 0
   m_LastSelected: 0
 >>>>>>> f0e7fa2b1552fb70a2ec9364178dd7676b42d893
@@ -179,13 +206,17 @@ MonoBehaviour:
   m_MinSize: {x: 200, y: 200}
   m_MaxSize: {x: 4000, y: 4000}
 <<<<<<< HEAD
+<<<<<<< HEAD
   m_ActualView: {fileID: 16}
 =======
 <<<<<<< HEAD
+=======
+>>>>>>> parent of f0e7fa2... Revert "Merge branch 'master' of https://github.com/rycon2424/GrimFortSanctum"
   m_ActualView: {fileID: 16}
 =======
   m_ActualView: {fileID: 15}
 >>>>>>> 98c87e86ebc9b61c15a14e80aab05acf64a10e9e
+<<<<<<< HEAD
 >>>>>>> parent of fabb288... TestRoom bijna klaar
 =======
   m_MinSize: {x: 202, y: 221}
@@ -196,6 +227,8 @@ MonoBehaviour:
   m_ActualView: {fileID: 17}
 >>>>>>> 26c5d407b3a2bace32a3a740f0abb7bb1cc89cc0
 >>>>>>> parent of 98c87e8... mooiere kamer dan eerst
+=======
+>>>>>>> parent of f0e7fa2... Revert "Merge branch 'master' of https://github.com/rycon2424/GrimFortSanctum"
   m_Panes:
   - {fileID: 16}
   m_Selected: 0
@@ -237,10 +270,14 @@ MonoBehaviour:
     width: 1531
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> parent of f0e7fa2... Revert "Merge branch 'master' of https://github.com/rycon2424/GrimFortSanctum"
     height: 375
 =======
     height: 374
 >>>>>>> 98c87e86ebc9b61c15a14e80aab05acf64a10e9e
+<<<<<<< HEAD
 >>>>>>> parent of fabb288... TestRoom bijna klaar
 =======
     height: 374
@@ -248,6 +285,8 @@ MonoBehaviour:
     height: 375
 >>>>>>> 26c5d407b3a2bace32a3a740f0abb7bb1cc89cc0
 >>>>>>> parent of 98c87e8... mooiere kamer dan eerst
+=======
+>>>>>>> parent of f0e7fa2... Revert "Merge branch 'master' of https://github.com/rycon2424/GrimFortSanctum"
   m_MinSize: {x: 232, y: 271}
   m_MaxSize: {x: 10002, y: 10021}
   m_ActualView: {fileID: 14}
@@ -301,6 +340,7 @@ MonoBehaviour:
     width: 1920
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
     height: 998
   m_MinSize: {x: 950, y: 542}
 =======
@@ -310,6 +350,12 @@ MonoBehaviour:
 =======
     height: 998
 >>>>>>> 26c5d407b3a2bace32a3a740f0abb7bb1cc89cc0
+=======
+    height: 998
+  m_MinSize: {x: 950, y: 542}
+=======
+    height: 997
+>>>>>>> parent of f0e7fa2... Revert "Merge branch 'master' of https://github.com/rycon2424/GrimFortSanctum"
   m_MinSize: {x: 950, y: 300}
 >>>>>>> 98c87e86ebc9b61c15a14e80aab05acf64a10e9e
   m_MaxSize: {x: 10000, y: 10000}
@@ -393,11 +439,17 @@ MonoBehaviour:
     width: 1531
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> parent of f0e7fa2... Revert "Merge branch 'master' of https://github.com/rycon2424/GrimFortSanctum"
     height: 948
 =======
     height: 947
 >>>>>>> 98c87e86ebc9b61c15a14e80aab05acf64a10e9e
+<<<<<<< HEAD
 >>>>>>> parent of fabb288... TestRoom bijna klaar
+=======
+>>>>>>> parent of f0e7fa2... Revert "Merge branch 'master' of https://github.com/rycon2424/GrimFortSanctum"
   m_MinSize: {x: 404, y: 492}
   m_MaxSize: {x: 10002, y: 14042}
   vertical: 1
@@ -506,11 +558,15 @@ MonoBehaviour:
   m_MinSize: {x: 204, y: 221}
   m_MaxSize: {x: 4004, y: 4021}
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> parent of f0e7fa2... Revert "Merge branch 'master' of https://github.com/rycon2424/GrimFortSanctum"
   m_ActualView: {fileID: 16}
   m_Panes:
   - {fileID: 16}
   - {fileID: 17}
   - {fileID: 12}
+<<<<<<< HEAD
 =======
   m_ActualView: {fileID: 18}
   m_Panes:
@@ -522,6 +578,11 @@ MonoBehaviour:
   m_LastSelected: 1
 >>>>>>> 98c87e86ebc9b61c15a14e80aab05acf64a10e9e
 >>>>>>> parent of fabb288... TestRoom bijna klaar
+=======
+  m_Selected: 0
+  m_LastSelected: 1
+>>>>>>> 98c87e86ebc9b61c15a14e80aab05acf64a10e9e
+>>>>>>> parent of f0e7fa2... Revert "Merge branch 'master' of https://github.com/rycon2424/GrimFortSanctum"
 --- !u!114 &12
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -529,6 +590,7 @@ MonoBehaviour:
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 0}
   m_Enabled: 1
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -571,6 +633,8 @@ MonoBehaviour:
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 0}
   m_Enabled: 1
+=======
+>>>>>>> parent of f0e7fa2... Revert "Merge branch 'master' of https://github.com/rycon2424/GrimFortSanctum"
   m_EditorHideFlags: 0
   m_Script: {fileID: 12914, guid: 0000000000000000e000000000000000, type: 0}
 >>>>>>> parent of 98c87e8... mooiere kamer dan eerst
@@ -655,11 +719,16 @@ MonoBehaviour:
   m_GameObject: {fileID: 0}
   m_Enabled: 1
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 >>>>>>> 98c87e86ebc9b61c15a14e80aab05acf64a10e9e
 =======
 >>>>>>> 26c5d407b3a2bace32a3a740f0abb7bb1cc89cc0
 >>>>>>> parent of 98c87e8... mooiere kamer dan eerst
+=======
+=======
+>>>>>>> 98c87e86ebc9b61c15a14e80aab05acf64a10e9e
+>>>>>>> parent of f0e7fa2... Revert "Merge branch 'master' of https://github.com/rycon2424/GrimFortSanctum"
   m_EditorHideFlags: 1
   m_Script: {fileID: 12111, guid: 0000000000000000e000000000000000, type: 0}
   m_Name: 
@@ -706,6 +775,7 @@ MonoBehaviour:
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 >>>>>>> parent of 98c87e8... mooiere kamer dan eerst
     y: 665
@@ -722,14 +792,22 @@ MonoBehaviour:
     width: 1529
     height: 354
 =======
+    y: 664
+    width: 1529
+    height: 354
+>>>>>>> parent of f0e7fa2... Revert "Merge branch 'master' of https://github.com/rycon2424/GrimFortSanctum"
+=======
     y: 665
     width: 1529
     height: 353
 >>>>>>> 98c87e86ebc9b61c15a14e80aab05acf64a10e9e
+<<<<<<< HEAD
 >>>>>>> parent of fabb288... TestRoom bijna klaar
 =======
 >>>>>>> 26c5d407b3a2bace32a3a740f0abb7bb1cc89cc0
 >>>>>>> parent of 98c87e8... mooiere kamer dan eerst
+=======
+>>>>>>> parent of f0e7fa2... Revert "Merge branch 'master' of https://github.com/rycon2424/GrimFortSanctum"
   m_PersistentViewDataDictionary: {fileID: 0}
   m_SearchFilter:
     m_NameFilter: 
@@ -743,6 +821,7 @@ MonoBehaviour:
     m_ShowAllHits: 0
     m_SearchArea: 0
     m_Folders:
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -777,17 +856,30 @@ MonoBehaviour:
 >>>>>>> parent of fabb288... TestRoom bijna klaar
 =======
 =======
+=======
+>>>>>>> parent of f0e7fa2... Revert "Merge branch 'master' of https://github.com/rycon2424/GrimFortSanctum"
     - Assets/Scenes
   m_ViewMode: 1
   m_StartGridSize: 64
   m_LastFolders:
   - Assets/Scenes
+<<<<<<< HEAD
 >>>>>>> 26c5d407b3a2bace32a3a740f0abb7bb1cc89cc0
 >>>>>>> parent of 98c87e8... mooiere kamer dan eerst
+=======
+=======
+    - Assets/_PluginsExternalAssests/morgue scene/Prefabs/props
+  m_ViewMode: 1
+  m_StartGridSize: 64
+  m_LastFolders:
+  - Assets/_PluginsExternalAssests/morgue scene/Prefabs/props
+>>>>>>> 98c87e86ebc9b61c15a14e80aab05acf64a10e9e
+>>>>>>> parent of f0e7fa2... Revert "Merge branch 'master' of https://github.com/rycon2424/GrimFortSanctum"
   m_LastFoldersGridSize: -1
   m_LastProjectPath: C:\Users\pc\Documents\GitHub\GrimFortSanctum\AnomalyXD
   m_IsLocked: 0
   m_FolderTreeState:
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -802,6 +894,8 @@ MonoBehaviour:
     m_ExpandedIDs: 00000000d43c0000ec3c0000403d0000643d00006a3d00006e3d0000683e0000963e0000e23e0000e43e0000e63e0000e83e0000ea3e000000ca9a3bffffff7f
 >>>>>>> f0e7fa2b1552fb70a2ec9364178dd7676b42d893
 =======
+=======
+>>>>>>> parent of f0e7fa2... Revert "Merge branch 'master' of https://github.com/rycon2424/GrimFortSanctum"
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 0a3d0000
     m_LastClickedID: 15626
@@ -812,6 +906,7 @@ MonoBehaviour:
     m_LastClickedID: 10882
     m_ExpandedIDs: 00000000f6290000202a0000342a0000b42a0000522b0000c02b0000c62b0000d82b0000b22d0000742e0000ce2e0000a22f0000a42f0000a62f0000a82f0000aa2f000000ca9a3bffffff7f
 >>>>>>> 98c87e86ebc9b61c15a14e80aab05acf64a10e9e
+<<<<<<< HEAD
 >>>>>>> parent of fabb288... TestRoom bijna klaar
 =======
     scrollPos: {x: 0, y: 0}
@@ -825,6 +920,8 @@ MonoBehaviour:
     m_ExpandedIDs: 00000000d83c0000e83c0000f03c0000223d0000483d00006a3d0000703d0000343e00006c3e0000963e0000283f00002a3f00002c3f00002e3f0000303f000000ca9a3bffffff7f
 >>>>>>> 26c5d407b3a2bace32a3a740f0abb7bb1cc89cc0
 >>>>>>> parent of 98c87e8... mooiere kamer dan eerst
+=======
+>>>>>>> parent of f0e7fa2... Revert "Merge branch 'master' of https://github.com/rycon2424/GrimFortSanctum"
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -855,6 +952,7 @@ MonoBehaviour:
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
     m_ExpandedIDs: 00000000563d00006c3d0000bc3d0000dc3d0000e23d0000e63d0000ee3d00009a3e0000d23e0000fa3e0000463f0000483f00004a3f00004c3f00004e3f000000ca9a3bffffff7f
 =======
     m_ExpandedIDs: 00000000d43c0000e43c0000ec3c00001e3d0000403d0000643d00006a3d0000763d0000303e0000683e0000963e0000e23e0000e43e0000e63e0000e83e0000ea3e0000
@@ -871,6 +969,12 @@ MonoBehaviour:
     m_ExpandedIDs: 00000000d83c0000e83c0000f03c0000223d0000483d00006a3d0000703d0000343e00006c3e0000963e0000283f00002a3f00002c3f00002e3f0000303f000000ca9a3bffffff7f
 >>>>>>> 26c5d407b3a2bace32a3a740f0abb7bb1cc89cc0
 >>>>>>> parent of 98c87e8... mooiere kamer dan eerst
+=======
+    m_ExpandedIDs: 00000000d43c0000e43c0000ec3c00001e3d0000403d0000643d00006a3d0000763d0000303e0000683e0000963e0000e23e0000e43e0000e63e0000e83e0000ea3e0000
+=======
+    m_ExpandedIDs: 00000000f6290000202a0000342a0000b42a0000522b0000c02b0000c62b0000d82b0000b22d0000742e0000ce2e0000a22f0000a42f0000a62f0000a82f0000aa2f0000
+>>>>>>> 98c87e86ebc9b61c15a14e80aab05acf64a10e9e
+>>>>>>> parent of f0e7fa2... Revert "Merge branch 'master' of https://github.com/rycon2424/GrimFortSanctum"
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -1064,6 +1168,9 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> parent of f0e7fa2... Revert "Merge branch 'master' of https://github.com/rycon2424/GrimFortSanctum"
     m_SelectedIDs: 
     m_LastClickedID: 0
     m_ExpandedIDs: 8823feffbe88ffffd28bffff6691ffff5ea0ffff1aa4ffff00000000
@@ -1072,6 +1179,7 @@ MonoBehaviour:
     m_LastClickedID: -107968
     m_ExpandedIDs: a6a1feff3cdeffffb4f4ffffd6f8ffff0000000052300000bc3000000831000014310000
 >>>>>>> 98c87e86ebc9b61c15a14e80aab05acf64a10e9e
+<<<<<<< HEAD
 =======
     m_SelectedIDs: 
     m_LastClickedID: 0
@@ -1081,6 +1189,8 @@ MonoBehaviour:
     m_ExpandedIDs: 023dfdff2840fdff3241fdff5a5efdffea62fdff66d9fdff88d9fdff282affff00000000
 >>>>>>> 26c5d407b3a2bace32a3a740f0abb7bb1cc89cc0
 >>>>>>> parent of 98c87e8... mooiere kamer dan eerst
+=======
+>>>>>>> parent of f0e7fa2... Revert "Merge branch 'master' of https://github.com/rycon2424/GrimFortSanctum"
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -1101,6 +1211,7 @@ MonoBehaviour:
   m_ExpandedScenes:
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
   - Waardeloze_scene
 =======
   - JorritTestScene
@@ -1111,6 +1222,12 @@ MonoBehaviour:
   - Waardeloze_scene
 >>>>>>> 26c5d407b3a2bace32a3a740f0abb7bb1cc89cc0
 >>>>>>> parent of 98c87e8... mooiere kamer dan eerst
+=======
+  - Waardeloze_scene
+=======
+  - JorritTestScene
+>>>>>>> 98c87e86ebc9b61c15a14e80aab05acf64a10e9e
+>>>>>>> parent of f0e7fa2... Revert "Merge branch 'master' of https://github.com/rycon2424/GrimFortSanctum"
   m_CurrenRootInstanceID: 0
   m_Locked: 0
   m_CurrentSortingName: TransformSorting
@@ -1144,10 +1261,14 @@ MonoBehaviour:
   m_SceneLighting: 1
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> parent of f0e7fa2... Revert "Merge branch 'master' of https://github.com/rycon2424/GrimFortSanctum"
   lastFramingTime: 0
 =======
   lastFramingTime: 688.7975445907911
 >>>>>>> 98c87e86ebc9b61c15a14e80aab05acf64a10e9e
+<<<<<<< HEAD
 >>>>>>> parent of fabb288... TestRoom bijna klaar
 =======
   lastFramingTime: 1066.944358778982
@@ -1155,25 +1276,34 @@ MonoBehaviour:
   lastFramingTime: 0
 >>>>>>> 26c5d407b3a2bace32a3a740f0abb7bb1cc89cc0
 >>>>>>> parent of 98c87e8... mooiere kamer dan eerst
+=======
+>>>>>>> parent of f0e7fa2... Revert "Merge branch 'master' of https://github.com/rycon2424/GrimFortSanctum"
   m_2DMode: 0
   m_isRotationLocked: 0
   m_AudioPlay: 0
   m_Position:
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> parent of f0e7fa2... Revert "Merge branch 'master' of https://github.com/rycon2424/GrimFortSanctum"
     m_Target: {x: -0.9046562, y: 1.2565606, z: -2.0794396}
     speed: 2
     m_Value: {x: -0.9046562, y: 1.2565606, z: -2.0794396}
 =======
 <<<<<<< HEAD
+<<<<<<< HEAD
     m_Target: {x: -0.9046562, y: 1.2565606, z: -2.0794396}
     speed: 2
     m_Value: {x: -0.9046562, y: 1.2565606, z: -2.0794396}
 =======
+=======
+>>>>>>> parent of f0e7fa2... Revert "Merge branch 'master' of https://github.com/rycon2424/GrimFortSanctum"
     m_Target: {x: 11.591854, y: 1.0483948, z: 7.167618}
     speed: 2
     m_Value: {x: 11.591854, y: 1.0483948, z: 7.167618}
 >>>>>>> 98c87e86ebc9b61c15a14e80aab05acf64a10e9e
+<<<<<<< HEAD
 >>>>>>> parent of fabb288... TestRoom bijna klaar
 =======
     m_Target: {x: 9.022846, y: 0.9410124, z: -0.08339195}
@@ -1185,6 +1315,8 @@ MonoBehaviour:
     m_Value: {x: -1.0336385, y: -1.1750555, z: 2.0441618}
 >>>>>>> 26c5d407b3a2bace32a3a740f0abb7bb1cc89cc0
 >>>>>>> parent of 98c87e8... mooiere kamer dan eerst
+=======
+>>>>>>> parent of f0e7fa2... Revert "Merge branch 'master' of https://github.com/rycon2424/GrimFortSanctum"
   m_RenderMode: 0
   m_ValidateTrueMetals: 0
   m_SceneViewState:
@@ -1210,9 +1342,12 @@ MonoBehaviour:
   m_Rotation:
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 <<<<<<< HEAD
 >>>>>>> parent of fabb288... TestRoom bijna klaar
+=======
+>>>>>>> parent of f0e7fa2... Revert "Merge branch 'master' of https://github.com/rycon2424/GrimFortSanctum"
     m_Target: {x: -0.020346802, y: 0.95357215, z: -0.066197954, w: -0.29309392}
     speed: 2
     m_Value: {x: -0.020346802, y: 0.95357215, z: -0.066197954, w: -0.29309392}
@@ -1220,6 +1355,7 @@ MonoBehaviour:
     m_Target: 7.9435906
     speed: 2
     m_Value: 7.9435906
+<<<<<<< HEAD
 <<<<<<< HEAD
 =======
 =======
@@ -1248,6 +1384,17 @@ MonoBehaviour:
     m_Value: 11.925186
 >>>>>>> 26c5d407b3a2bace32a3a740f0abb7bb1cc89cc0
 >>>>>>> parent of 98c87e8... mooiere kamer dan eerst
+=======
+=======
+    m_Target: {x: -0.050697807, y: -0.76329523, z: 0.060348637, w: -0.64122397}
+    speed: 2
+    m_Value: {x: -0.050697807, y: -0.76329523, z: 0.060348637, w: -0.64122397}
+  m_Size:
+    m_Target: 1.4670336
+    speed: 2
+    m_Value: 1.4670336
+>>>>>>> 98c87e86ebc9b61c15a14e80aab05acf64a10e9e
+>>>>>>> parent of f0e7fa2... Revert "Merge branch 'master' of https://github.com/rycon2424/GrimFortSanctum"
   m_Ortho:
     m_Target: 0
     speed: 2
@@ -1371,9 +1518,11 @@ MonoBehaviour:
     height: 926
 =======
     x: 0
-    y: 664
+    y: 665
     width: 1529
+<<<<<<< HEAD
     height: 354
+<<<<<<< HEAD
 >>>>>>> f0e7fa2b1552fb70a2ec9364178dd7676b42d893
 =======
     x: 8
@@ -1396,4 +1545,9 @@ MonoBehaviour:
     height: 354
 >>>>>>> 26c5d407b3a2bace32a3a740f0abb7bb1cc89cc0
 >>>>>>> parent of 98c87e8... mooiere kamer dan eerst
+=======
+=======
+    height: 353
+>>>>>>> 98c87e86ebc9b61c15a14e80aab05acf64a10e9e
+>>>>>>> parent of f0e7fa2... Revert "Merge branch 'master' of https://github.com/rycon2424/GrimFortSanctum"
   m_PersistentViewDataDictionary: {fileID: 0}
