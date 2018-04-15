@@ -9,7 +9,7 @@ EditorBuildSettings:
     path: Assets/Scenes/MainMenu.unity
     guid: 14204f58f1213b141a9b448a0928bd46
   - enabled: 1
-    path: Assets/Scenes/Waardeloze_scene.unity
+    path: Assets/Scenes/Main_Scene.unity
     guid: a4c441893fdce8b4188faae9bf607e47
   - enabled: 1
     path: Assets/Scenes/LevelTest.unity
