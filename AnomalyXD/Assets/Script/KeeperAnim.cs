@@ -1,9 +1,9 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
-//using UnityEngine.Networking;
+using UnityEngine.Networking;
 
-public class KeeperAnim : /*NetworkBehaviour*/ MonoBehaviour {
+public class KeeperAnim : NetworkBehaviour {
 
 	private Animator anim;
 
@@ -15,10 +15,10 @@ public class KeeperAnim : /*NetworkBehaviour*/ MonoBehaviour {
 	void Update () 
 	{
 		
-		/*if (!isLocalPlayer)
+		if (!isLocalPlayer)
 		{
 			return;
-		}*/
+		}
 
 		if (Input.GetKey(KeyCode.W))
 		{
