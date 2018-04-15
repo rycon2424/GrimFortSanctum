@@ -324,6 +324,11 @@ GameObject:
   - component: {fileID: 114882841543593032}
   - component: {fileID: 54065247940202312}
   - component: {fileID: 82029513407533714}
+  - component: {fileID: 114356334819072528}
+  - component: {fileID: 114079459840002042}
+  - component: {fileID: 95674701698035654}
+  - component: {fileID: 114325890286043954}
+  - component: {fileID: 114167690305256762}
   m_Layer: 0
   m_Name: KEEPER
   m_TagString: Untagged
@@ -582,8 +587,6 @@ GameObject:
   serializedVersion: 5
   m_Component:
   - component: {fileID: 4310890563691058}
-  - component: {fileID: 95746717983888164}
-  - component: {fileID: 114614255303416170}
   m_Layer: 0
   m_Name: heraklios_a_dizon@Holding Idle
   m_TagString: Untagged
@@ -1466,7 +1469,7 @@ Transform:
   m_PrefabInternal: {fileID: 100100000}
   m_GameObject: {fileID: 1297852669711598}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -0.087, y: 0.501, z: -1.436}
+  m_LocalPosition: {x: -0.2115829, y: 0.01, z: -0.6078758}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children:
   - {fileID: 4636998187797028}
@@ -2161,34 +2164,106 @@ AudioSource:
     m_PreInfinity: 2
     m_PostInfinity: 2
     m_RotationOrder: 0
---- !u!95 &95746717983888164
+--- !u!95 &95674701698035654
 Animator:
   serializedVersion: 3
   m_ObjectHideFlags: 1
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 100100000}
-  m_GameObject: {fileID: 1519575034363552}
+  m_GameObject: {fileID: 1297852669711598}
   m_Enabled: 1
   m_Avatar: {fileID: 9000000, guid: f83625bd086923e45a95158f0913ef0e, type: 3}
   m_Controller: {fileID: 9100000, guid: f4d561c882649084ca3a0a838d9088e2, type: 2}
-  m_CullingMode: 1
+  m_CullingMode: 0
   m_UpdateMode: 0
   m_ApplyRootMotion: 0
   m_LinearVelocityBlending: 0
   m_WarningMessage: 
   m_HasTransformHierarchy: 1
   m_AllowConstantClipSamplingOptimization: 1
---- !u!114 &114614255303416170
+--- !u!114 &114079459840002042
 MonoBehaviour:
   m_ObjectHideFlags: 1
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 100100000}
-  m_GameObject: {fileID: 1519575034363552}
+  m_GameObject: {fileID: 1297852669711598}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -1768714887, guid: dc443db3e92b4983b9738c1131f555cb, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_TransformSyncMode: 3
+  m_SendInterval: 0.033333335
+  m_SyncRotationAxis: 7
+  m_RotationSyncCompression: 0
+  m_SyncSpin: 0
+  m_MovementTheshold: 0.001
+  m_VelocityThreshold: 0.0001
+  m_SnapThreshold: 5
+  m_InterpolateRotation: 1
+  m_InterpolateMovement: 1
+--- !u!114 &114167690305256762
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1297852669711598}
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: dc8da305ac39c9a41b149a167e2188d6, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+--- !u!114 &114325890286043954
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1297852669711598}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1590678366, guid: dc443db3e92b4983b9738c1131f555cb, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Animator: {fileID: 95674701698035654}
+  m_ParameterSendBits: 0
+  param0: 
+  param1: 
+  param2: 
+  param3: 
+  param4: 
+  param5: 
+--- !u!114 &114356334819072528
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1297852669711598}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 372142912, guid: dc443db3e92b4983b9738c1131f555cb, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_SceneId:
+    m_Value: 0
+  m_AssetId:
+    i0: 219
+    i1: 23
+    i2: 138
+    i3: 167
+    i4: 227
+    i5: 195
+    i6: 114
+    i7: 180
+    i8: 42
+    i9: 73
+    i10: 85
+    i11: 61
+    i12: 155
+    i13: 159
+    i14: 26
+    i15: 94
+  m_ServerOnly: 1
+  m_LocalPlayerAuthority: 0
 --- !u!114 &114882841543593032
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -2201,8 +2276,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_IsWalking: 0
-  m_WalkSpeed: 5
-  m_RunSpeed: 10
+  m_WalkSpeed: 2.5
+  m_RunSpeed: 5
   m_RunstepLenghten: 0.7
   m_JumpSpeed: 5
   m_StickToGroundForce: 10
@@ -2285,7 +2360,7 @@ MonoBehaviour:
   m_JumpBob:
     BobDuration: 0.2
     BobAmount: 0.1
-  m_StepInterval: 5
+  m_StepInterval: 3
   m_FootstepSounds:
   - {fileID: 8300000, guid: 42e65e088b3f4374e851b8dbd38f3df9, type: 3}
   - {fileID: 8300000, guid: 8bc94ec6ed537e743b481638bdcd503d, type: 3}
