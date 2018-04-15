@@ -43,15 +43,16 @@ public class CamLock : NetworkBehaviour {
 		character.transform.localRotation = Quaternion.AngleAxis (mouseLook.x, character.transform.up);
 
 
-        Ray myRay = new Ray(transform.position, transform.forward);
+        Ray myRay = new Ray(camera.transform.position, camera.transform.TransformDirection(Vector3.forward));
 
-        Debug.DrawRay(transform.position, transform.forward * 3.5f);
+        Debug.DrawRay(camera.transform.position, camera.transform.TransformDirection(Vector3.forward) * 3.5f);
 
 
         if (Input.GetKeyDown(KeyCode.E) && Physics.Raycast(myRay, out hit, 3.5f))
         {
-            if (hit.collider.CompareTag("TypeUwTagHier"))
+            if (hit.collider.CompareTag("Untagged"))
             {
+                Debug.Log("yay een Untagged GameObject");
                 //maak hier het event als je de tag raakt
             }
         }
