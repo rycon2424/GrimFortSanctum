@@ -1,4 +1,13 @@
 sceneSetups:
+<<<<<<< HEAD
 - path: Assets/Waardeloze_scene.unity
+=======
+<<<<<<< HEAD
+- path: Assets/Animation test.unity
+=======
+- path: Assets/_PluginsExternalAssests/Technical laboratory designer-V1_Room/Scenes/Technical
+    laboratory designer-V1_Room.unity
+>>>>>>> 0b8a6b41b22954623f73cb56ece9f14e3f02b755
+>>>>>>> e6ec4dd2d1bd8c3e0d5b7fea9be8543c2d92d661
   isLoaded: 1
   isActive: 1
