@@ -1,4 +1,5 @@
 sceneSetups:
-- path: Assets/Waardeloze_scene.unity
+- path: Assets/_PluginsExternalAssests/Technical laboratory designer-V1_Room/Scenes/Technical
+    laboratory designer-V1_Room.unity
   isLoaded: 1
   isActive: 1
