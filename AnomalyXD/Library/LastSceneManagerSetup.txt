@@ -1,8 +1,4 @@
 sceneSetups:
-<<<<<<< HEAD
 - path: Assets/Scenes/JorritTestScene.unity
-=======
-- path: Assets/Scenes/Waardeloze_scene.unity
->>>>>>> 26c5d407b3a2bace32a3a740f0abb7bb1cc89cc0
   isLoaded: 1
   isActive: 1
