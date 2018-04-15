@@ -16,7 +16,7 @@ public class NetworkingEnzo : NetworkManager {
 
 	public override void OnServerAddPlayer(NetworkConnection conn, short playerControllerId)
 	{
-		if (isKeeper) {
+		if (isKeeper == true) {
 			keeper = Instantiate(Resources.Load("KEEPERBUTTHEREALONE"), transform.position, Quaternion.identity) as GameObject;
 
 			NetworkServer.AddPlayerForConnection(conn, keeper, playerControllerId);
@@ -24,7 +24,7 @@ public class NetworkingEnzo : NetworkManager {
 		}
 		else if (isKeeper == false)
 		{
-			escapist = Instantiate(Resources.Load("KEEPERBUTTHEREALONE"), transform.position, Quaternion.identity) as GameObject;
+			escapist = Instantiate(Resources.Load("ESCAPISTBUTTHEREALONE 1"), transform.position, Quaternion.identity) as GameObject;
 
 			NetworkServer.AddPlayerForConnection(conn, escapist, playerControllerId);
 			isKeeper = true;
