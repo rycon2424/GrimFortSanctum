@@ -1,4 +1,22 @@
 sceneSetups:
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+- path: Assets/Scenes/JorritTestScene.unity
+=======
 - path: Assets/Scenes/Waardeloze_scene.unity
+>>>>>>> f0e7fa2b1552fb70a2ec9364178dd7676b42d893
+=======
+- path: Assets/Scenes/Waardeloze_scene.unity
+=======
+- path: Assets/Scenes/JorritTestScene.unity
+>>>>>>> 98c87e86ebc9b61c15a14e80aab05acf64a10e9e
+>>>>>>> parent of fabb288... TestRoom bijna klaar
+=======
+- path: Assets/Scenes/JorritTestScene.unity
+=======
+- path: Assets/Scenes/Waardeloze_scene.unity
+>>>>>>> 26c5d407b3a2bace32a3a740f0abb7bb1cc89cc0
+>>>>>>> parent of 98c87e8... mooiere kamer dan eerst
   isLoaded: 1
   isActive: 1

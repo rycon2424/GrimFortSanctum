@@ -113,10 +113,64 @@ NavMeshSettings:
     debug:
       m_Flags: 0
   m_NavMeshData: {fileID: 0}
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+--- !u!1001 &9551873
+Prefab:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 454098, guid: fbef12b796f48df43a7823a7858346e8, type: 2}
+      propertyPath: m_LocalPosition.x
+      value: -3.303
+      objectReference: {fileID: 0}
+    - target: {fileID: 454098, guid: fbef12b796f48df43a7823a7858346e8, type: 2}
+      propertyPath: m_LocalPosition.y
+      value: 0.00000011920929
+      objectReference: {fileID: 0}
+    - target: {fileID: 454098, guid: fbef12b796f48df43a7823a7858346e8, type: 2}
+      propertyPath: m_LocalPosition.z
+      value: 9.798
+      objectReference: {fileID: 0}
+    - target: {fileID: 454098, guid: fbef12b796f48df43a7823a7858346e8, type: 2}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 454098, guid: fbef12b796f48df43a7823a7858346e8, type: 2}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 454098, guid: fbef12b796f48df43a7823a7858346e8, type: 2}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 454098, guid: fbef12b796f48df43a7823a7858346e8, type: 2}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 454098, guid: fbef12b796f48df43a7823a7858346e8, type: 2}
+      propertyPath: m_RootOrder
+      value: 8
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_ParentPrefab: {fileID: 100100000, guid: fbef12b796f48df43a7823a7858346e8, type: 2}
+  m_IsPrefabParent: 0
+=======
+=======
+>>>>>>> parent of 98c87e8... mooiere kamer dan eerst
 --- !u!4 &8356339 stripped
 Transform:
   m_PrefabParentObject: {fileID: 457248, guid: e74e546c0dc2e68429a1bdd74b45709e, type: 2}
   m_PrefabInternal: {fileID: 908640744}
+<<<<<<< HEAD
+>>>>>>> f0e7fa2b1552fb70a2ec9364178dd7676b42d893
+=======
+>>>>>>> parent of fabb288... TestRoom bijna klaar
+=======
+>>>>>>> parent of 98c87e8... mooiere kamer dan eerst
 --- !u!1001 &16603030
 Prefab:
   m_ObjectHideFlags: 0
@@ -168,6 +222,7 @@ Transform:
   m_PrefabParentObject: {fileID: 470884, guid: 5c9fcce56ce141242b4795f96796d784, type: 2}
   m_PrefabInternal: {fileID: 16603030}
 --- !u!1001 &56722387
+<<<<<<< HEAD
 Prefab:
   m_ObjectHideFlags: 0
   serializedVersion: 2
@@ -213,6 +268,127 @@ Prefab:
 Transform:
   m_PrefabParentObject: {fileID: 453932, guid: afb3a810580d951408d34206296996c1, type: 2}
   m_PrefabInternal: {fileID: 56722387}
+<<<<<<< HEAD
+<<<<<<< HEAD
+--- !u!1001 &92565195
+=======
+>>>>>>> parent of 98c87e8... mooiere kamer dan eerst
+Prefab:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 464388, guid: 707c8e73e995723438a43fc2201d7493, type: 2}
+      propertyPath: m_LocalPosition.x
+      value: -3.371
+      objectReference: {fileID: 0}
+    - target: {fileID: 464388, guid: 707c8e73e995723438a43fc2201d7493, type: 2}
+      propertyPath: m_LocalPosition.y
+      value: 0.00000011920929
+      objectReference: {fileID: 0}
+    - target: {fileID: 464388, guid: 707c8e73e995723438a43fc2201d7493, type: 2}
+      propertyPath: m_LocalPosition.z
+      value: 4.112
+      objectReference: {fileID: 0}
+    - target: {fileID: 464388, guid: 707c8e73e995723438a43fc2201d7493, type: 2}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 464388, guid: 707c8e73e995723438a43fc2201d7493, type: 2}
+      propertyPath: m_LocalRotation.y
+      value: 0.2588191
+      objectReference: {fileID: 0}
+    - target: {fileID: 464388, guid: 707c8e73e995723438a43fc2201d7493, type: 2}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 464388, guid: 707c8e73e995723438a43fc2201d7493, type: 2}
+      propertyPath: m_LocalRotation.w
+      value: 0.9659258
+      objectReference: {fileID: 0}
+    - target: {fileID: 464388, guid: 707c8e73e995723438a43fc2201d7493, type: 2}
+      propertyPath: m_RootOrder
+      value: 14
+      objectReference: {fileID: 0}
+    - target: {fileID: 464388, guid: 707c8e73e995723438a43fc2201d7493, type: 2}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 30
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_ParentPrefab: {fileID: 100100000, guid: 707c8e73e995723438a43fc2201d7493, type: 2}
+  m_IsPrefabParent: 0
+--- !u!4 &99724753 stripped
+Transform:
+<<<<<<< HEAD
+  m_PrefabParentObject: {fileID: 485294, guid: e0419c97f225685458a68669b159f710, type: 2}
+  m_PrefabInternal: {fileID: 373136702}
+=======
+>>>>>>> parent of fabb288... TestRoom bijna klaar
+--- !u!1001 &111980596
+Prefab:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 1886831985}
+    m_Modifications:
+    - target: {fileID: 420158, guid: 99272484fea26594a8ed43992df88cc8, type: 2}
+      propertyPath: m_LocalPosition.x
+      value: 6.074
+      objectReference: {fileID: 0}
+    - target: {fileID: 420158, guid: 99272484fea26594a8ed43992df88cc8, type: 2}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 420158, guid: 99272484fea26594a8ed43992df88cc8, type: 2}
+      propertyPath: m_LocalPosition.z
+      value: 2.948
+      objectReference: {fileID: 0}
+    - target: {fileID: 420158, guid: 99272484fea26594a8ed43992df88cc8, type: 2}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 420158, guid: 99272484fea26594a8ed43992df88cc8, type: 2}
+      propertyPath: m_LocalRotation.y
+      value: -0.9999973
+      objectReference: {fileID: 0}
+    - target: {fileID: 420158, guid: 99272484fea26594a8ed43992df88cc8, type: 2}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 420158, guid: 99272484fea26594a8ed43992df88cc8, type: 2}
+      propertyPath: m_LocalRotation.w
+      value: 0.0023414046
+      objectReference: {fileID: 0}
+    - target: {fileID: 420158, guid: 99272484fea26594a8ed43992df88cc8, type: 2}
+      propertyPath: m_RootOrder
+      value: 7
+      objectReference: {fileID: 0}
+    - target: {fileID: 420158, guid: 99272484fea26594a8ed43992df88cc8, type: 2}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: -179.73201
+      objectReference: {fileID: 0}
+    - target: {fileID: 420158, guid: 99272484fea26594a8ed43992df88cc8, type: 2}
+      propertyPath: m_LocalScale.x
+      value: 0.010000009
+      objectReference: {fileID: 0}
+    - target: {fileID: 420158, guid: 99272484fea26594a8ed43992df88cc8, type: 2}
+      propertyPath: m_LocalScale.z
+      value: 0.010000009
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_ParentPrefab: {fileID: 100100000, guid: 99272484fea26594a8ed43992df88cc8, type: 2}
+  m_IsPrefabParent: 0
+--- !u!4 &111980597 stripped
+Transform:
+  m_PrefabParentObject: {fileID: 420158, guid: 99272484fea26594a8ed43992df88cc8, type: 2}
+  m_PrefabInternal: {fileID: 111980596}
+=======
+>>>>>>> f0e7fa2b1552fb70a2ec9364178dd7676b42d893
+=======
+  m_PrefabParentObject: {fileID: 453932, guid: afb3a810580d951408d34206296996c1, type: 2}
+  m_PrefabInternal: {fileID: 56722387}
+>>>>>>> parent of 98c87e8... mooiere kamer dan eerst
 --- !u!1001 &132644890
 Prefab:
   m_ObjectHideFlags: 0
@@ -1061,7 +1237,129 @@ Prefab:
 Transform:
   m_PrefabParentObject: {fileID: 463726, guid: e8844f0074e08e146ac42fb5eaeab3db, type: 2}
   m_PrefabInternal: {fileID: 634382310}
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+--- !u!4 &637916944 stripped
+Transform:
+  m_PrefabParentObject: {fileID: 460678, guid: 79646652f63865f4185986c750a93b72, type: 2}
+  m_PrefabInternal: {fileID: 1160426143}
+--- !u!1001 &638128679
+Prefab:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 756248617}
+    m_Modifications:
+    - target: {fileID: 456670, guid: 69d8c128bceb6394aa69d849207e7dce, type: 2}
+      propertyPath: m_LocalPosition.x
+      value: 8
+      objectReference: {fileID: 0}
+    - target: {fileID: 456670, guid: 69d8c128bceb6394aa69d849207e7dce, type: 2}
+      propertyPath: m_LocalPosition.y
+      value: 0.003000021
+      objectReference: {fileID: 0}
+    - target: {fileID: 456670, guid: 69d8c128bceb6394aa69d849207e7dce, type: 2}
+      propertyPath: m_LocalPosition.z
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 456670, guid: 69d8c128bceb6394aa69d849207e7dce, type: 2}
+      propertyPath: m_LocalRotation.x
+      value: 0.7071068
+      objectReference: {fileID: 0}
+    - target: {fileID: 456670, guid: 69d8c128bceb6394aa69d849207e7dce, type: 2}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 456670, guid: 69d8c128bceb6394aa69d849207e7dce, type: 2}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 456670, guid: 69d8c128bceb6394aa69d849207e7dce, type: 2}
+      propertyPath: m_LocalRotation.w
+      value: 0.7071067
+      objectReference: {fileID: 0}
+    - target: {fileID: 456670, guid: 69d8c128bceb6394aa69d849207e7dce, type: 2}
+      propertyPath: m_RootOrder
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 101022, guid: 69d8c128bceb6394aa69d849207e7dce, type: 2}
+      propertyPath: m_Name
+      value: drain_decal (1)
+      objectReference: {fileID: 0}
+    - target: {fileID: 456670, guid: 69d8c128bceb6394aa69d849207e7dce, type: 2}
+      propertyPath: m_LocalScale.y
+      value: 0.2670872
+      objectReference: {fileID: 0}
+    - target: {fileID: 456670, guid: 69d8c128bceb6394aa69d849207e7dce, type: 2}
+      propertyPath: m_LocalScale.z
+      value: 0.2670872
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_ParentPrefab: {fileID: 100100000, guid: 69d8c128bceb6394aa69d849207e7dce, type: 2}
+  m_IsPrefabParent: 0
+=======
+>>>>>>> parent of fabb288... TestRoom bijna klaar
+--- !u!1001 &679907119
+Prefab:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 1886831985}
+    m_Modifications:
+    - target: {fileID: 420392, guid: ab4ced4914b68784d8bf02aba7918f90, type: 2}
+      propertyPath: m_LocalPosition.x
+      value: 1.884
+      objectReference: {fileID: 0}
+    - target: {fileID: 420392, guid: ab4ced4914b68784d8bf02aba7918f90, type: 2}
+      propertyPath: m_LocalPosition.y
+      value: 0.578
+      objectReference: {fileID: 0}
+    - target: {fileID: 420392, guid: ab4ced4914b68784d8bf02aba7918f90, type: 2}
+      propertyPath: m_LocalPosition.z
+      value: 2.985
+      objectReference: {fileID: 0}
+    - target: {fileID: 420392, guid: ab4ced4914b68784d8bf02aba7918f90, type: 2}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 420392, guid: ab4ced4914b68784d8bf02aba7918f90, type: 2}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 420392, guid: ab4ced4914b68784d8bf02aba7918f90, type: 2}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 420392, guid: ab4ced4914b68784d8bf02aba7918f90, type: 2}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 420392, guid: ab4ced4914b68784d8bf02aba7918f90, type: 2}
+      propertyPath: m_RootOrder
+      value: 6
+      objectReference: {fileID: 0}
+    - target: {fileID: 125502, guid: ab4ced4914b68784d8bf02aba7918f90, type: 2}
+      propertyPath: m_Name
+      value: autopsy_table (3)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_ParentPrefab: {fileID: 100100000, guid: ab4ced4914b68784d8bf02aba7918f90, type: 2}
+  m_IsPrefabParent: 0
+--- !u!4 &679907120 stripped
+Transform:
+  m_PrefabParentObject: {fileID: 420392, guid: ab4ced4914b68784d8bf02aba7918f90, type: 2}
+  m_PrefabInternal: {fileID: 679907119}
+<<<<<<< HEAD
+--- !u!1001 &703857890
+=======
+=======
+>>>>>>> parent of 98c87e8... mooiere kamer dan eerst
 --- !u!1001 &720486487
+>>>>>>> f0e7fa2b1552fb70a2ec9364178dd7676b42d893
+=======
+--- !u!1001 &720486487
+>>>>>>> parent of fabb288... TestRoom bijna klaar
 Prefab:
   m_ObjectHideFlags: 0
   serializedVersion: 2
@@ -1496,6 +1794,116 @@ Transform:
   m_Children:
   - {fileID: 1631921648}
   m_Father: {fileID: 0}
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+  m_RootOrder: 28
+=======
+  m_RootOrder: 8
+>>>>>>> parent of fabb288... TestRoom bijna klaar
+=======
+  m_RootOrder: 7
+>>>>>>> parent of 98c87e8... mooiere kamer dan eerst
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &860497410
+GameObject:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  serializedVersion: 5
+  m_Component:
+  - component: {fileID: 860497413}
+  - component: {fileID: 860497412}
+  - component: {fileID: 860497411}
+  m_Layer: 0
+  m_Name: Pencil
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!54 &860497411
+Rigidbody:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 860497410}
+  serializedVersion: 2
+  m_Mass: 1
+  m_Drag: 0
+  m_AngularDrag: 0.05
+  m_UseGravity: 1
+  m_IsKinematic: 0
+  m_Interpolate: 0
+  m_Constraints: 0
+  m_CollisionDetection: 0
+--- !u!136 &860497412
+CapsuleCollider:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 860497410}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  m_Radius: 0.5
+  m_Height: 16.028643
+  m_Direction: 2
+  m_Center: {x: 0, y: 0, z: -1.0167837}
+--- !u!4 &860497413
+Transform:
+<<<<<<< HEAD
+  m_PrefabParentObject: {fileID: 4838495750395212, guid: d32d14c68c04c674b93f66e32c0a1c63,
+    type: 2}
+  m_PrefabInternal: {fileID: 877164896}
+<<<<<<< HEAD
+--- !u!1001 &869557173
+Prefab:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 4564626046031394, guid: 37893d2ea7c9086438fc2bbd4ffb4898, type: 2}
+      propertyPath: m_LocalPosition.x
+      value: 6.3733907
+      objectReference: {fileID: 0}
+    - target: {fileID: 4564626046031394, guid: 37893d2ea7c9086438fc2bbd4ffb4898, type: 2}
+      propertyPath: m_LocalPosition.y
+      value: 1.1860728
+      objectReference: {fileID: 0}
+    - target: {fileID: 4564626046031394, guid: 37893d2ea7c9086438fc2bbd4ffb4898, type: 2}
+      propertyPath: m_LocalPosition.z
+      value: 7.342714
+      objectReference: {fileID: 0}
+    - target: {fileID: 4564626046031394, guid: 37893d2ea7c9086438fc2bbd4ffb4898, type: 2}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4564626046031394, guid: 37893d2ea7c9086438fc2bbd4ffb4898, type: 2}
+      propertyPath: m_LocalRotation.y
+      value: 0.20885056
+      objectReference: {fileID: 0}
+    - target: {fileID: 4564626046031394, guid: 37893d2ea7c9086438fc2bbd4ffb4898, type: 2}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4564626046031394, guid: 37893d2ea7c9086438fc2bbd4ffb4898, type: 2}
+      propertyPath: m_LocalRotation.w
+      value: 0.9779476
+      objectReference: {fileID: 0}
+    - target: {fileID: 4564626046031394, guid: 37893d2ea7c9086438fc2bbd4ffb4898, type: 2}
+      propertyPath: m_RootOrder
+      value: 12
+      objectReference: {fileID: 0}
+    - target: {fileID: 4564626046031394, guid: 37893d2ea7c9086438fc2bbd4ffb4898, type: 2}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 24.11
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_ParentPrefab: {fileID: 100100000, guid: 37893d2ea7c9086438fc2bbd4ffb4898, type: 2}
+  m_IsPrefabParent: 0
+=======
   m_RootOrder: 7
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &860497410
@@ -1545,6 +1953,8 @@ CapsuleCollider:
   m_Center: {x: 0, y: 0, z: -1.0167837}
 --- !u!4 &860497413
 Transform:
+=======
+>>>>>>> parent of 98c87e8... mooiere kamer dan eerst
   m_ObjectHideFlags: 0
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
@@ -1557,6 +1967,12 @@ Transform:
   m_Father: {fileID: 1350058665}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+<<<<<<< HEAD
+>>>>>>> f0e7fa2b1552fb70a2ec9364178dd7676b42d893
+=======
+>>>>>>> parent of fabb288... TestRoom bijna klaar
+=======
+>>>>>>> parent of 98c87e8... mooiere kamer dan eerst
 --- !u!1 &876004942
 GameObject:
   m_ObjectHideFlags: 0
@@ -1598,7 +2014,19 @@ Transform:
   - {fileID: 482029129}
   - {fileID: 1004313701}
   m_Father: {fileID: 0}
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+  m_RootOrder: 32
+=======
   m_RootOrder: 9
+>>>>>>> f0e7fa2b1552fb70a2ec9364178dd7676b42d893
+=======
+  m_RootOrder: 10
+>>>>>>> parent of fabb288... TestRoom bijna klaar
+=======
+  m_RootOrder: 9
+>>>>>>> parent of 98c87e8... mooiere kamer dan eerst
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!4 &898187108 stripped
 Transform:
@@ -1662,6 +2090,65 @@ Prefab:
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: e74e546c0dc2e68429a1bdd74b45709e, type: 2}
   m_IsPrefabParent: 0
+<<<<<<< HEAD
+<<<<<<< HEAD
+--- !u!4 &898187108 stripped
+Transform:
+  m_PrefabParentObject: {fileID: 454382, guid: 0a163724c297a9443b380c1010de89f9, type: 2}
+  m_PrefabInternal: {fileID: 1480197696}
+<<<<<<< HEAD
+--- !u!1001 &905583856
+Prefab:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 460678, guid: 79646652f63865f4185986c750a93b72, type: 2}
+      propertyPath: m_LocalPosition.x
+      value: 7
+      objectReference: {fileID: 0}
+    - target: {fileID: 460678, guid: 79646652f63865f4185986c750a93b72, type: 2}
+      propertyPath: m_LocalPosition.y
+      value: 1.65
+      objectReference: {fileID: 0}
+    - target: {fileID: 460678, guid: 79646652f63865f4185986c750a93b72, type: 2}
+      propertyPath: m_LocalPosition.z
+      value: 8.001
+      objectReference: {fileID: 0}
+    - target: {fileID: 460678, guid: 79646652f63865f4185986c750a93b72, type: 2}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 460678, guid: 79646652f63865f4185986c750a93b72, type: 2}
+      propertyPath: m_LocalRotation.y
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 460678, guid: 79646652f63865f4185986c750a93b72, type: 2}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 460678, guid: 79646652f63865f4185986c750a93b72, type: 2}
+      propertyPath: m_LocalRotation.w
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 460678, guid: 79646652f63865f4185986c750a93b72, type: 2}
+      propertyPath: m_RootOrder
+      value: 20
+      objectReference: {fileID: 0}
+    - target: {fileID: 460678, guid: 79646652f63865f4185986c750a93b72, type: 2}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 180
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_ParentPrefab: {fileID: 100100000, guid: 79646652f63865f4185986c750a93b72, type: 2}
+  m_IsPrefabParent: 0
+=======
+>>>>>>> f0e7fa2b1552fb70a2ec9364178dd7676b42d893
+=======
+>>>>>>> parent of fabb288... TestRoom bijna klaar
+=======
+>>>>>>> parent of 98c87e8... mooiere kamer dan eerst
 --- !u!1001 &914736025
 Prefab:
   m_ObjectHideFlags: 0
@@ -2352,7 +2839,19 @@ Transform:
   - {fileID: 1745925616}
   - {fileID: 788084569}
   m_Father: {fileID: 0}
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+  m_RootOrder: 26
+=======
   m_RootOrder: 5
+>>>>>>> f0e7fa2b1552fb70a2ec9364178dd7676b42d893
+=======
+  m_RootOrder: 6
+>>>>>>> parent of fabb288... TestRoom bijna klaar
+=======
+  m_RootOrder: 5
+>>>>>>> parent of 98c87e8... mooiere kamer dan eerst
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1180121338 stripped
 GameObject:
@@ -2439,7 +2938,95 @@ Prefab:
 Transform:
   m_PrefabParentObject: {fileID: 463726, guid: e8844f0074e08e146ac42fb5eaeab3db, type: 2}
   m_PrefabInternal: {fileID: 1246143974}
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+--- !u!1001 &1272038067
+=======
+--- !u!1001 &1284489085
+>>>>>>> parent of fabb288... TestRoom bijna klaar
+Prefab:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 472968, guid: 69e2513b7eb2a5a4e9e6e57f72a30362, type: 2}
+      propertyPath: m_LocalPosition.x
+      value: 11.141254
+      objectReference: {fileID: 0}
+    - target: {fileID: 472968, guid: 69e2513b7eb2a5a4e9e6e57f72a30362, type: 2}
+      propertyPath: m_LocalPosition.y
+      value: 1.165
+      objectReference: {fileID: 0}
+    - target: {fileID: 472968, guid: 69e2513b7eb2a5a4e9e6e57f72a30362, type: 2}
+      propertyPath: m_LocalPosition.z
+      value: 7.1219435
+      objectReference: {fileID: 0}
+    - target: {fileID: 472968, guid: 69e2513b7eb2a5a4e9e6e57f72a30362, type: 2}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 472968, guid: 69e2513b7eb2a5a4e9e6e57f72a30362, type: 2}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 472968, guid: 69e2513b7eb2a5a4e9e6e57f72a30362, type: 2}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 472968, guid: 69e2513b7eb2a5a4e9e6e57f72a30362, type: 2}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 472968, guid: 69e2513b7eb2a5a4e9e6e57f72a30362, type: 2}
+      propertyPath: m_RootOrder
+      value: 1
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_ParentPrefab: {fileID: 100100000, guid: 69e2513b7eb2a5a4e9e6e57f72a30362, type: 2}
+  m_IsPrefabParent: 0
+<<<<<<< HEAD
+--- !u!1001 &1272072687
+=======
 --- !u!1001 &1290422632
+>>>>>>> f0e7fa2b1552fb70a2ec9364178dd7676b42d893
+=======
+--- !u!1 &1284489086 stripped
+GameObject:
+  m_PrefabParentObject: {fileID: 168534, guid: 69e2513b7eb2a5a4e9e6e57f72a30362, type: 2}
+  m_PrefabInternal: {fileID: 1284489085}
+--- !u!54 &1284489087
+Rigidbody:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 1284489086}
+  serializedVersion: 2
+  m_Mass: 1
+  m_Drag: 0
+  m_AngularDrag: 0.05
+  m_UseGravity: 1
+  m_IsKinematic: 0
+  m_Interpolate: 0
+  m_Constraints: 0
+  m_CollisionDetection: 0
+--- !u!65 &1284489088
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 1284489086}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 9.86864, y: 16.568634, z: 9.672502}
+  m_Center: {x: -0.00000047683716, y: 0, z: 0}
+=======
+>>>>>>> parent of 98c87e8... mooiere kamer dan eerst
+--- !u!1001 &1290422632
+>>>>>>> parent of fabb288... TestRoom bijna klaar
 Prefab:
   m_ObjectHideFlags: 0
   serializedVersion: 2
@@ -2548,8 +3135,107 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+  m_RootOrder: 22
+=======
+  m_RootOrder: 3
+>>>>>>> parent of fabb288... TestRoom bijna klaar
+  m_LocalEulerAnglesHint: {x: 50, y: -30, z: 0}
+--- !u!1001 &1307998393
+Prefab:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 1350058665}
+    m_Modifications:
+    - target: {fileID: 446964, guid: 9d8dcfc962f6a894ca2095893a24cf07, type: 2}
+      propertyPath: m_LocalPosition.x
+      value: 9.178
+      objectReference: {fileID: 0}
+    - target: {fileID: 446964, guid: 9d8dcfc962f6a894ca2095893a24cf07, type: 2}
+      propertyPath: m_LocalPosition.y
+      value: 0.9410124
+      objectReference: {fileID: 0}
+    - target: {fileID: 446964, guid: 9d8dcfc962f6a894ca2095893a24cf07, type: 2}
+      propertyPath: m_LocalPosition.z
+      value: -0.044
+      objectReference: {fileID: 0}
+    - target: {fileID: 446964, guid: 9d8dcfc962f6a894ca2095893a24cf07, type: 2}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 446964, guid: 9d8dcfc962f6a894ca2095893a24cf07, type: 2}
+      propertyPath: m_LocalRotation.y
+      value: -0.98669213
+      objectReference: {fileID: 0}
+    - target: {fileID: 446964, guid: 9d8dcfc962f6a894ca2095893a24cf07, type: 2}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 446964, guid: 9d8dcfc962f6a894ca2095893a24cf07, type: 2}
+      propertyPath: m_LocalRotation.w
+      value: 0.16259964
+      objectReference: {fileID: 0}
+    - target: {fileID: 446964, guid: 9d8dcfc962f6a894ca2095893a24cf07, type: 2}
+      propertyPath: m_RootOrder
+      value: 4
+      objectReference: {fileID: 0}
+    - target: {fileID: 446964, guid: 9d8dcfc962f6a894ca2095893a24cf07, type: 2}
+      propertyPath: m_LocalScale.x
+      value: 0.009999998
+      objectReference: {fileID: 0}
+    - target: {fileID: 446964, guid: 9d8dcfc962f6a894ca2095893a24cf07, type: 2}
+      propertyPath: m_LocalScale.z
+      value: 0.009999998
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_ParentPrefab: {fileID: 100100000, guid: 9d8dcfc962f6a894ca2095893a24cf07, type: 2}
+  m_IsPrefabParent: 0
+--- !u!1 &1307998394 stripped
+GameObject:
+  m_PrefabParentObject: {fileID: 123600, guid: 9d8dcfc962f6a894ca2095893a24cf07, type: 2}
+  m_PrefabInternal: {fileID: 1307998393}
+--- !u!54 &1307998395
+Rigidbody:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 1307998394}
+  serializedVersion: 2
+  m_Mass: 1
+  m_Drag: 0
+  m_AngularDrag: 0.05
+  m_UseGravity: 1
+  m_IsKinematic: 0
+  m_Interpolate: 0
+  m_Constraints: 0
+  m_CollisionDetection: 0
+--- !u!65 &1307998396
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 1307998394}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 31.006546, y: 0.21351379, z: 8.585899}
+  m_Center: {x: 0, y: -0.0000014156103, z: 0}
+--- !u!4 &1307998397 stripped
+Transform:
+  m_PrefabParentObject: {fileID: 446964, guid: 9d8dcfc962f6a894ca2095893a24cf07, type: 2}
+  m_PrefabInternal: {fileID: 1307998393}
+=======
   m_RootOrder: 2
   m_LocalEulerAnglesHint: {x: 50, y: -30, z: 0}
+>>>>>>> f0e7fa2b1552fb70a2ec9364178dd7676b42d893
+=======
+  m_RootOrder: 2
+  m_LocalEulerAnglesHint: {x: 50, y: -30, z: 0}
+>>>>>>> parent of 98c87e8... mooiere kamer dan eerst
 --- !u!1001 &1317179405
 Prefab:
   m_ObjectHideFlags: 0
@@ -2741,6 +3427,25 @@ Transform:
   - {fileID: 997111925}
   - {fileID: 2011306505}
   - {fileID: 2096280098}
+<<<<<<< HEAD
+<<<<<<< HEAD
+  - {fileID: 1307998397}
+  - {fileID: 26497213}
+<<<<<<< HEAD
+  - {fileID: 249258644}
+  - {fileID: 1284489091}
+  - {fileID: 924761520}
+  - {fileID: 1233979410}
+  - {fileID: 99724753}
+  - {fileID: 1969072089}
+  - {fileID: 637916944}
+  - {fileID: 1088177239}
+=======
+>>>>>>> f0e7fa2b1552fb70a2ec9364178dd7676b42d893
+=======
+>>>>>>> parent of fabb288... TestRoom bijna klaar
+=======
+>>>>>>> parent of 98c87e8... mooiere kamer dan eerst
   m_Father: {fileID: 1997175171}
   m_RootOrder: 1
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
@@ -2795,7 +3500,19 @@ Transform:
   - {fileID: 360434327}
   - {fileID: 898187108}
   m_Father: {fileID: 0}
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+  m_RootOrder: 23
+=======
   m_RootOrder: 3
+>>>>>>> f0e7fa2b1552fb70a2ec9364178dd7676b42d893
+=======
+  m_RootOrder: 4
+>>>>>>> parent of fabb288... TestRoom bijna klaar
+=======
+  m_RootOrder: 3
+>>>>>>> parent of 98c87e8... mooiere kamer dan eerst
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1001 &1405977609
 Prefab:
@@ -3009,7 +3726,183 @@ Prefab:
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: 0a163724c297a9443b380c1010de89f9, type: 2}
   m_IsPrefabParent: 0
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+--- !u!1001 &1522559847
+Prefab:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 1744918728}
+    m_Modifications:
+    - target: {fileID: 403928, guid: 947e113398f058643a47464fff50cae1, type: 2}
+      propertyPath: m_LocalPosition.x
+      value: 4
+      objectReference: {fileID: 0}
+    - target: {fileID: 403928, guid: 947e113398f058643a47464fff50cae1, type: 2}
+      propertyPath: m_LocalPosition.y
+      value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 403928, guid: 947e113398f058643a47464fff50cae1, type: 2}
+      propertyPath: m_LocalPosition.z
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 403928, guid: 947e113398f058643a47464fff50cae1, type: 2}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 403928, guid: 947e113398f058643a47464fff50cae1, type: 2}
+      propertyPath: m_LocalRotation.y
+      value: 0.7071068
+      objectReference: {fileID: 0}
+    - target: {fileID: 403928, guid: 947e113398f058643a47464fff50cae1, type: 2}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 403928, guid: 947e113398f058643a47464fff50cae1, type: 2}
+      propertyPath: m_LocalRotation.w
+      value: 0.7071068
+      objectReference: {fileID: 0}
+    - target: {fileID: 403928, guid: 947e113398f058643a47464fff50cae1, type: 2}
+      propertyPath: m_RootOrder
+      value: 6
+      objectReference: {fileID: 0}
+    - target: {fileID: 117088, guid: 947e113398f058643a47464fff50cae1, type: 2}
+      propertyPath: m_Name
+      value: ceiling_light (2)
+      objectReference: {fileID: 0}
+    - target: {fileID: 403928, guid: 947e113398f058643a47464fff50cae1, type: 2}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 90
+      objectReference: {fileID: 0}
+    - target: {fileID: 403928, guid: 947e113398f058643a47464fff50cae1, type: 2}
+      propertyPath: m_LocalScale.x
+      value: 0.0100000035
+      objectReference: {fileID: 0}
+    - target: {fileID: 403928, guid: 947e113398f058643a47464fff50cae1, type: 2}
+      propertyPath: m_LocalScale.z
+      value: 0.0100000035
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_ParentPrefab: {fileID: 100100000, guid: 947e113398f058643a47464fff50cae1, type: 2}
+  m_IsPrefabParent: 0
+--- !u!4 &1522559848 stripped
+Transform:
+  m_PrefabParentObject: {fileID: 403928, guid: 947e113398f058643a47464fff50cae1, type: 2}
+  m_PrefabInternal: {fileID: 1522559847}
+=======
+>>>>>>> parent of fabb288... TestRoom bijna klaar
+--- !u!1001 &1530588107
+Prefab:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 1886831985}
+    m_Modifications:
+    - target: {fileID: 420392, guid: ab4ced4914b68784d8bf02aba7918f90, type: 2}
+      propertyPath: m_LocalPosition.x
+      value: 1.8839998
+      objectReference: {fileID: 0}
+    - target: {fileID: 420392, guid: ab4ced4914b68784d8bf02aba7918f90, type: 2}
+      propertyPath: m_LocalPosition.y
+      value: 0.578
+      objectReference: {fileID: 0}
+    - target: {fileID: 420392, guid: ab4ced4914b68784d8bf02aba7918f90, type: 2}
+      propertyPath: m_LocalPosition.z
+      value: -1.0147953
+      objectReference: {fileID: 0}
+    - target: {fileID: 420392, guid: ab4ced4914b68784d8bf02aba7918f90, type: 2}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 420392, guid: ab4ced4914b68784d8bf02aba7918f90, type: 2}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 420392, guid: ab4ced4914b68784d8bf02aba7918f90, type: 2}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 420392, guid: ab4ced4914b68784d8bf02aba7918f90, type: 2}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 420392, guid: ab4ced4914b68784d8bf02aba7918f90, type: 2}
+      propertyPath: m_RootOrder
+      value: 5
+      objectReference: {fileID: 0}
+    - target: {fileID: 125502, guid: ab4ced4914b68784d8bf02aba7918f90, type: 2}
+      propertyPath: m_Name
+      value: autopsy_table (2)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_ParentPrefab: {fileID: 100100000, guid: ab4ced4914b68784d8bf02aba7918f90, type: 2}
+  m_IsPrefabParent: 0
+--- !u!4 &1530588108 stripped
+Transform:
+  m_PrefabParentObject: {fileID: 420392, guid: ab4ced4914b68784d8bf02aba7918f90, type: 2}
+  m_PrefabInternal: {fileID: 1530588107}
+--- !u!1001 &1595588266
+Prefab:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 1744918728}
+    m_Modifications:
+    - target: {fileID: 432976, guid: 815d7be770ecebf4fab949961c955692, type: 2}
+      propertyPath: m_LocalPosition.x
+      value: 0.35172677
+      objectReference: {fileID: 0}
+    - target: {fileID: 432976, guid: 815d7be770ecebf4fab949961c955692, type: 2}
+      propertyPath: m_LocalPosition.y
+      value: 1.3129514
+      objectReference: {fileID: 0}
+    - target: {fileID: 432976, guid: 815d7be770ecebf4fab949961c955692, type: 2}
+      propertyPath: m_LocalPosition.z
+      value: 12.0062
+      objectReference: {fileID: 0}
+    - target: {fileID: 432976, guid: 815d7be770ecebf4fab949961c955692, type: 2}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 432976, guid: 815d7be770ecebf4fab949961c955692, type: 2}
+      propertyPath: m_LocalRotation.y
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 432976, guid: 815d7be770ecebf4fab949961c955692, type: 2}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 432976, guid: 815d7be770ecebf4fab949961c955692, type: 2}
+      propertyPath: m_LocalRotation.w
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 432976, guid: 815d7be770ecebf4fab949961c955692, type: 2}
+      propertyPath: m_RootOrder
+      value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 432976, guid: 815d7be770ecebf4fab949961c955692, type: 2}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 180
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_ParentPrefab: {fileID: 100100000, guid: 815d7be770ecebf4fab949961c955692, type: 2}
+  m_IsPrefabParent: 0
+<<<<<<< HEAD
+--- !u!1001 &1573021569
+=======
 --- !u!1001 &1631921647
+>>>>>>> f0e7fa2b1552fb70a2ec9364178dd7676b42d893
+=======
+--- !u!4 &1595588267 stripped
+Transform:
+  m_PrefabParentObject: {fileID: 432976, guid: 815d7be770ecebf4fab949961c955692, type: 2}
+  m_PrefabInternal: {fileID: 1595588266}
+=======
+>>>>>>> parent of 98c87e8... mooiere kamer dan eerst
+--- !u!1001 &1631921647
+>>>>>>> parent of fabb288... TestRoom bijna klaar
 Prefab:
   m_ObjectHideFlags: 0
   serializedVersion: 2
@@ -3296,8 +4189,27 @@ Transform:
   - {fileID: 164379007}
   - {fileID: 1964047704}
   - {fileID: 571315081}
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+  - {fileID: 619599651}
+=======
+>>>>>>> parent of fabb288... TestRoom bijna klaar
+  - {fileID: 1595588267}
+  m_Father: {fileID: 0}
+<<<<<<< HEAD
+  m_RootOrder: 27
+=======
   m_Father: {fileID: 0}
   m_RootOrder: 6
+>>>>>>> f0e7fa2b1552fb70a2ec9364178dd7676b42d893
+=======
+  m_RootOrder: 7
+>>>>>>> parent of fabb288... TestRoom bijna klaar
+=======
+  m_Father: {fileID: 0}
+  m_RootOrder: 6
+>>>>>>> parent of 98c87e8... mooiere kamer dan eerst
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1001 &1745925615
 Prefab:
@@ -3431,7 +4343,19 @@ Transform:
   - {fileID: 1868963188}
   - {fileID: 16603031}
   m_Father: {fileID: 0}
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+  m_RootOrder: 24
+=======
   m_RootOrder: 4
+>>>>>>> f0e7fa2b1552fb70a2ec9364178dd7676b42d893
+=======
+  m_RootOrder: 5
+>>>>>>> parent of fabb288... TestRoom bijna klaar
+=======
+  m_RootOrder: 4
+>>>>>>> parent of 98c87e8... mooiere kamer dan eerst
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1001 &1841341549
 Prefab:
@@ -3537,6 +4461,127 @@ Prefab:
 Transform:
   m_PrefabParentObject: {fileID: 453932, guid: afb3a810580d951408d34206296996c1, type: 2}
   m_PrefabInternal: {fileID: 1860013571}
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+--- !u!1001 &1861030173
+Prefab:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 4271812554156550, guid: 374a3ed75ef777c4eb7e6ea61f9d082f, type: 2}
+      propertyPath: m_LocalPosition.x
+      value: -3.7295325
+      objectReference: {fileID: 0}
+    - target: {fileID: 4271812554156550, guid: 374a3ed75ef777c4eb7e6ea61f9d082f, type: 2}
+      propertyPath: m_LocalPosition.y
+      value: 1.2689159
+      objectReference: {fileID: 0}
+    - target: {fileID: 4271812554156550, guid: 374a3ed75ef777c4eb7e6ea61f9d082f, type: 2}
+      propertyPath: m_LocalPosition.z
+      value: 6.289222
+      objectReference: {fileID: 0}
+    - target: {fileID: 4271812554156550, guid: 374a3ed75ef777c4eb7e6ea61f9d082f, type: 2}
+      propertyPath: m_LocalRotation.x
+      value: 0.00000289913
+      objectReference: {fileID: 0}
+    - target: {fileID: 4271812554156550, guid: 374a3ed75ef777c4eb7e6ea61f9d082f, type: 2}
+      propertyPath: m_LocalRotation.y
+      value: -0.000002094521
+      objectReference: {fileID: 0}
+    - target: {fileID: 4271812554156550, guid: 374a3ed75ef777c4eb7e6ea61f9d082f, type: 2}
+      propertyPath: m_LocalRotation.z
+      value: 0.0000029945613
+      objectReference: {fileID: 0}
+    - target: {fileID: 4271812554156550, guid: 374a3ed75ef777c4eb7e6ea61f9d082f, type: 2}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4271812554156550, guid: 374a3ed75ef777c4eb7e6ea61f9d082f, type: 2}
+      propertyPath: m_RootOrder
+      value: 17
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_ParentPrefab: {fileID: 100100000, guid: 374a3ed75ef777c4eb7e6ea61f9d082f, type: 2}
+  m_IsPrefabParent: 0
+--- !u!4 &1861221944 stripped
+Transform:
+  m_PrefabParentObject: {fileID: 402278, guid: 38c8dc4fecdb792408805686d9bf2734, type: 2}
+  m_PrefabInternal: {fileID: 1018684611}
+=======
+>>>>>>> parent of fabb288... TestRoom bijna klaar
+--- !u!1001 &1865513523
+Prefab:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 26497213}
+    m_Modifications:
+    - target: {fileID: 403816, guid: 80565fbeae15fa746956cf545776c7d6, type: 2}
+      propertyPath: m_LocalPosition.x
+      value: 0.75662047
+      objectReference: {fileID: 0}
+    - target: {fileID: 403816, guid: 80565fbeae15fa746956cf545776c7d6, type: 2}
+      propertyPath: m_LocalPosition.y
+      value: 0.29490057
+      objectReference: {fileID: 0}
+    - target: {fileID: 403816, guid: 80565fbeae15fa746956cf545776c7d6, type: 2}
+      propertyPath: m_LocalPosition.z
+      value: 0.6385422
+      objectReference: {fileID: 0}
+    - target: {fileID: 403816, guid: 80565fbeae15fa746956cf545776c7d6, type: 2}
+      propertyPath: m_LocalRotation.x
+      value: -0.0009184405
+      objectReference: {fileID: 0}
+    - target: {fileID: 403816, guid: 80565fbeae15fa746956cf545776c7d6, type: 2}
+      propertyPath: m_LocalRotation.y
+      value: 0.75078964
+      objectReference: {fileID: 0}
+    - target: {fileID: 403816, guid: 80565fbeae15fa746956cf545776c7d6, type: 2}
+      propertyPath: m_LocalRotation.z
+      value: -0.5716143
+      objectReference: {fileID: 0}
+    - target: {fileID: 403816, guid: 80565fbeae15fa746956cf545776c7d6, type: 2}
+      propertyPath: m_LocalRotation.w
+      value: 0.33101553
+      objectReference: {fileID: 0}
+    - target: {fileID: 403816, guid: 80565fbeae15fa746956cf545776c7d6, type: 2}
+      propertyPath: m_RootOrder
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 403816, guid: 80565fbeae15fa746956cf545776c7d6, type: 2}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 2.1660001
+      objectReference: {fileID: 0}
+    - target: {fileID: 403816, guid: 80565fbeae15fa746956cf545776c7d6, type: 2}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 55.717003
+      objectReference: {fileID: 0}
+    - target: {fileID: 403816, guid: 80565fbeae15fa746956cf545776c7d6, type: 2}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: -96.810005
+      objectReference: {fileID: 0}
+    - target: {fileID: 403816, guid: 80565fbeae15fa746956cf545776c7d6, type: 2}
+      propertyPath: m_LocalScale.x
+      value: 0.080500245
+      objectReference: {fileID: 0}
+    - target: {fileID: 403816, guid: 80565fbeae15fa746956cf545776c7d6, type: 2}
+      propertyPath: m_LocalScale.y
+      value: 0.080500215
+      objectReference: {fileID: 0}
+    - target: {fileID: 403816, guid: 80565fbeae15fa746956cf545776c7d6, type: 2}
+      propertyPath: m_LocalScale.z
+      value: 0.08050024
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_ParentPrefab: {fileID: 100100000, guid: 80565fbeae15fa746956cf545776c7d6, type: 2}
+  m_IsPrefabParent: 0
+=======
+>>>>>>> f0e7fa2b1552fb70a2ec9364178dd7676b42d893
+=======
+>>>>>>> parent of 98c87e8... mooiere kamer dan eerst
 --- !u!1001 &1868963187
 Prefab:
   m_ObjectHideFlags: 0
@@ -3675,6 +4720,23 @@ Transform:
   - {fileID: 1841341550}
   - {fileID: 1155686338}
   - {fileID: 1223112924}
+<<<<<<< HEAD
+<<<<<<< HEAD
+  - {fileID: 1530588108}
+  - {fileID: 679907120}
+  - {fileID: 111980597}
+<<<<<<< HEAD
+  - {fileID: 1901931853}
+  - {fileID: 836250199}
+  - {fileID: 1861221944}
+  - {fileID: 1875606558}
+  - {fileID: 1941318212}
+=======
+>>>>>>> f0e7fa2b1552fb70a2ec9364178dd7676b42d893
+=======
+>>>>>>> parent of fabb288... TestRoom bijna klaar
+=======
+>>>>>>> parent of 98c87e8... mooiere kamer dan eerst
   m_Father: {fileID: 1997175171}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
@@ -3806,7 +4868,19 @@ Transform:
   - {fileID: 1886831985}
   - {fileID: 1350058665}
   m_Father: {fileID: 0}
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+  m_RootOrder: 31
+=======
   m_RootOrder: 8
+>>>>>>> f0e7fa2b1552fb70a2ec9364178dd7676b42d893
+=======
+  m_RootOrder: 9
+>>>>>>> parent of fabb288... TestRoom bijna klaar
+=======
+  m_RootOrder: 8
+>>>>>>> parent of 98c87e8... mooiere kamer dan eerst
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1001 &1999847009
 Prefab:
