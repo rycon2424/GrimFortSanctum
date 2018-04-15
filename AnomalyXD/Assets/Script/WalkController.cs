@@ -65,4 +65,9 @@ public class WalkController : NetworkBehaviour {
 		yield return new WaitForSeconds (3f);
 		jumpUse = true;
 	}
+
+	public override void OnStartLocalPlayer()
+	{
+		GetComponentInChildren<SkinnedMeshRenderer> ().enabled = false;
+	}
 }

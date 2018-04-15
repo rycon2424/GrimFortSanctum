@@ -390,5 +390,4 @@ MonoBehaviour:
   matchSize: 4
   isNetworkActive: 0
   matchMaker: {fileID: 0}
-  keeper: {fileID: 1194051135212090, guid: 89bbfe23bdd034b41a823894a23d3890, type: 2}
-  escapist: {fileID: 1222762369325418, guid: c164359d6a0641f4aa38d1bfc69362c5, type: 2}
+  isKeeper: 1
