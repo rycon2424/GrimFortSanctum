@@ -16,8 +16,10 @@ public class WalkController : NetworkBehaviour {
 	{
 		if (isLocalPlayer) {
 			this.transform.GetChild (0).gameObject.GetComponent<Camera> ().enabled = true;
+			this.transform.GetChild (0).gameObject.GetComponent<AudioListener> ().enabled = true;
 		} else {
 			this.transform.GetChild (0).gameObject.GetComponent<Camera> ().enabled = false;
+			this.transform.GetChild (0).gameObject.GetComponent<AudioListener> ().enabled = false;
 		}
 
 		selfRigidbody = GetComponent<Rigidbody> ();
