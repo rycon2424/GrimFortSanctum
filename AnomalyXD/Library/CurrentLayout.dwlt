@@ -20,7 +20,7 @@ MonoBehaviour:
   m_ShowMode: 4
   m_Title: 
   m_RootView: {fileID: 6}
-  m_MinSize: {x: 950, y: 542}
+  m_MinSize: {x: 950, y: 300}
   m_MaxSize: {x: 10000, y: 10000}
 --- !u!114 &2
 MonoBehaviour:
@@ -90,8 +90,8 @@ MonoBehaviour:
     y: 0
     width: 379
     height: 573
-  m_MinSize: {x: 202, y: 221}
-  m_MaxSize: {x: 4002, y: 4021}
+  m_MinSize: {x: 200, y: 200}
+  m_MaxSize: {x: 4000, y: 4000}
   m_ActualView: {fileID: 16}
   m_Panes:
   - {fileID: 16}
@@ -144,7 +144,7 @@ MonoBehaviour:
     y: 0
     width: 1920
     height: 998
-  m_MinSize: {x: 950, y: 542}
+  m_MinSize: {x: 950, y: 300}
   m_MaxSize: {x: 10000, y: 10000}
 --- !u!114 &7
 MonoBehaviour:
@@ -355,19 +355,19 @@ MonoBehaviour:
     m_ShowAllHits: 0
     m_SearchArea: 0
     m_Folders:
-    - Assets/_PluginsExternalAssests/morgue scene/Models/floor/Materials
+    - Assets/Models3D
   m_ViewMode: 1
   m_StartGridSize: 64
   m_LastFolders:
-  - Assets/_PluginsExternalAssests/morgue scene/Models/floor/Materials
+  - Assets/Models3D
   m_LastFoldersGridSize: -1
   m_LastProjectPath: C:\Users\pc\Documents\GitHub\GrimFortSanctum\AnomalyXD
   m_IsLocked: 0
   m_FolderTreeState:
-    scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: a82a0000
-    m_LastClickedID: 10920
-    m_ExpandedIDs: 0000000082280000b4280000c8280000d0280000d2280000d828000044290000a8290000e0290000102a0000a62a0000ac2a0000ca2a0000e22a0000e62a0000c82b00001e2d0000542d00000e2e00008e2e0000b02e0000f0350000f2350000f4350000f6350000f835000000ca9a3bffffff7f
+    scrollPos: {x: 0, y: 127}
+    m_SelectedIDs: 9a280000
+    m_LastClickedID: 10394
+    m_ExpandedIDs: 00000000522800008428000098280000a0280000a2280000a82800001429000078290000b0290000e0290000762a00007c2a00009a2a0000b22a0000b62a0000982b0000ee2c0000242d0000de2d00005e2e0000802e000076360000783600007a3600007c3600007e36000000ca9a3bffffff7f
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -395,7 +395,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 0000000082280000b4280000c8280000d0280000d2280000d828000044290000a8290000e0290000102a0000a62a0000ac2a0000e62a0000c82b00001e2d0000542d00000e2e00008e2e0000b02e0000f0350000f2350000f4350000f6350000f8350000
+    m_ExpandedIDs: 00000000522800008428000098280000a0280000a2280000a82800001429000078290000b0290000e0290000762a00007c2a00009a2a0000b22a0000b62a0000982b0000ee2c0000242d0000de2d00005e2e0000802e000076360000783600007a3600007c3600007e360000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -515,7 +515,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 6ef5ffffe2f7ffff9cf8ffffe4f8ffffdef9ffff38fbffff000000008e2f0000b22f0000ee2f0000
+    m_ExpandedIDs: 64faffff9efbffff00000000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -571,9 +571,9 @@ MonoBehaviour:
   m_isRotationLocked: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: -1.6579287, y: -11.910879, z: 74.48004}
+    m_Target: {x: -31.341352, y: -4.8006606, z: 25.182384}
     speed: 2
-    m_Value: {x: -1.6579287, y: -11.910879, z: 74.48004}
+    m_Value: {x: -31.341352, y: -4.8006606, z: 25.182384}
   m_RenderMode: 0
   m_ValidateTrueMetals: 0
   m_SceneViewState:
@@ -597,13 +597,13 @@ MonoBehaviour:
       speed: 2
       m_Value: 0
   m_Rotation:
-    m_Target: {x: 0.06775798, y: -0.009930506, z: 0.0006737305, w: 0.9976522}
+    m_Target: {x: 0.058226135, y: -0.4370704, z: 0.028367445, w: 0.8970923}
     speed: 2
-    m_Value: {x: 0.06775798, y: -0.009930506, z: 0.0006737305, w: 0.9976522}
+    m_Value: {x: 0.058226135, y: -0.4370704, z: 0.028367445, w: 0.8970923}
   m_Size:
-    m_Target: 82.630775
+    m_Target: 53.19031
     speed: 2
-    m_Value: 82.630775
+    m_Value: 53.19031
   m_Ortho:
     m_Target: 0
     speed: 2
