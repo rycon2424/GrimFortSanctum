@@ -7,6 +7,8 @@ public class CamLock : NetworkBehaviour {
 
 	Vector2 mouseLook;
 	Vector2 smoothV;
+    RaycastHit hit;
+
 	public float sensitivity = 5f;
 	public float smoothing = 0.5f;
 	public GameObject camera;
@@ -39,5 +41,19 @@ public class CamLock : NetworkBehaviour {
 
 		camera.transform.localRotation = Quaternion.AngleAxis (-mouseLook.y, Vector3.right);
 		character.transform.localRotation = Quaternion.AngleAxis (mouseLook.x, character.transform.up);
-	}
+
+
+        Ray myRay = new Ray(transform.position, transform.forward);
+
+        Debug.DrawRay(transform.position, transform.forward * 3.5f);
+
+
+        if (Input.GetKeyDown(KeyCode.E) && Physics.Raycast(myRay, out hit, 3.5f))
+        {
+            if (hit.collider.CompareTag("TypeUwTagHier"))
+            {
+                //maak hier het event als je de tag raakt
+            }
+        }
+    }
 }
