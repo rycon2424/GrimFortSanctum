@@ -6,9 +6,15 @@ using UnityEngine.Networking;
 public class KeeperAnim : NetworkBehaviour {
 
 	private Animator anim;
+	private bool jumpUse = true;
 
 	void Start () 
 	{
+		if (!isLocalPlayer)
+		{
+			return;
+		}
+
 		anim = GetComponent<Animator> ();
 	}
 
@@ -40,9 +46,11 @@ public class KeeperAnim : NetworkBehaviour {
 			anim.SetInteger ("State", 4);
 		}
 
-		if (Input.GetKey(KeyCode.Space))
+		if (Input.GetKey(KeyCode.Space) && jumpUse == true)
 		{
 			anim.SetInteger ("State", 5);
+			StartCoroutine(Cooldown());
+			jumpUse = false;
 		}
 
 		if (Input.GetKeyUp(KeyCode.W) || Input.GetKeyUp(KeyCode.A) || 
@@ -51,5 +59,12 @@ public class KeeperAnim : NetworkBehaviour {
 			anim.SetInteger ("State", 0);
 		}
 
+	}
+
+	IEnumerator Cooldown()
+	{
+		yield return new WaitForSeconds (3f);
+		anim.SetInteger ("State", 0);
+		jumpUse = true;
 	}
 }
