@@ -3,6 +3,7 @@ sceneSetups:
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 - path: Assets/Scenes/JorritTestScene.unity
 =======
 - path: Assets/Scenes/Waardeloze_scene.unity
@@ -25,5 +26,11 @@ sceneSetups:
 - path: Assets/Scenes/JorritTestScene.unity
 >>>>>>> 98c87e86ebc9b61c15a14e80aab05acf64a10e9e
 >>>>>>> parent of f0e7fa2... Revert "Merge branch 'master' of https://github.com/rycon2424/GrimFortSanctum"
+=======
+- path: Assets/Scenes/Waardeloze_scene.unity
+=======
+- path: Assets/Scenes/JorritTestScene.unity
+>>>>>>> 98c87e86ebc9b61c15a14e80aab05acf64a10e9e
+>>>>>>> parent of fabb288... TestRoom bijna klaar
   isLoaded: 1
   isActive: 1
