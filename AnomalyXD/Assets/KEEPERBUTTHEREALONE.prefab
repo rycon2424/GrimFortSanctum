@@ -208,6 +208,7 @@ GameObject:
   - component: {fileID: 114896779779581336}
   - component: {fileID: 114226040900286950}
   - component: {fileID: 114007342722492660}
+  - component: {fileID: 114279739137862774}
   m_Layer: 0
   m_Name: KEEPERBUTTHEREALONE
   m_TagString: Untagged
@@ -466,7 +467,6 @@ GameObject:
   - component: {fileID: 20405469661352880}
   - component: {fileID: 124477338078870042}
   - component: {fileID: 81443831205846144}
-  - component: {fileID: 114482790672059570}
   m_Layer: 0
   m_Name: Camera
   m_TagString: Untagged
@@ -1598,7 +1598,7 @@ Transform:
   m_PrefabInternal: {fileID: 100100000}
   m_GameObject: {fileID: 1194051135212090}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0, y: 0.537, z: 0}
+  m_LocalPosition: {x: 0.7027551, y: 0.7, z: -0.9781252}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children:
   - {fileID: 4665064538817668}
@@ -2160,6 +2160,19 @@ MonoBehaviour:
   m_SnapThreshold: 5
   m_InterpolateRotation: 1
   m_InterpolateMovement: 1
+--- !u!114 &114279739137862774
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1194051135212090}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 110b33940a438144a9e997bcc121e581, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  sensitivity: 3
+  smoothing: 2
 --- !u!114 &114470033579892694
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -2173,19 +2186,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   speed: 3
   forceConst: 5
---- !u!114 &114482790672059570
-MonoBehaviour:
-  m_ObjectHideFlags: 1
-  m_PrefabParentObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 100100000}
-  m_GameObject: {fileID: 1473153513765764}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 110b33940a438144a9e997bcc121e581, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  sensitivity: 2
-  smoothing: 2
 --- !u!114 &114896779779581336
 MonoBehaviour:
   m_ObjectHideFlags: 1
