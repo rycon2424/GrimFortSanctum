@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/Scenes/Animation test.unity
+- path: Assets/Scenes/Waardeloze_scene.unity
   isLoaded: 1
   isActive: 1
