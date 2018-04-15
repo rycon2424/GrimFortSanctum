@@ -8,7 +8,7 @@ public class CamLock : NetworkBehaviour {
 	Vector2 mouseLook;
 	Vector2 smoothV;
 	public float sensitivity = 5f;
-	public float smoothing = 2f;
+	public float smoothing = 0.5f;
 	public GameObject camera;
 
 	GameObject character;
