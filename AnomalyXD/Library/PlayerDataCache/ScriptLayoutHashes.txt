@@ -1,7 +1,7 @@
 WindowsStandalone
 SceneListBegin?
 Assets/Scenes/MainMenu.unity
-Assets/Scenes/Waardeloze_scene.unity
+Assets/Scenes/Main_Scene.unity
 Assets/Scenes/LevelTest.unity
 SceneListEnd?
 05524b8f659e7bfe5756d1335fec24ba UnityEngine.Timeline.dll:UnityEngine.Timeline.ActivationPlayableAsset
