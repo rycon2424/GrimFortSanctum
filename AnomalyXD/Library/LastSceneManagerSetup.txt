@@ -1,8 +1,4 @@
 sceneSetups:
-<<<<<<< HEAD
-- path: Assets/Scenes/LevelTest.unity
-=======
-- path: Assets/Scenes/Waardeloze_scene.unity
->>>>>>> fd4ad50deceefc661312c8297bc2141e02ca6281
+- path: Assets/Scenes/Main_Scene.unity
   isLoaded: 1
   isActive: 1
