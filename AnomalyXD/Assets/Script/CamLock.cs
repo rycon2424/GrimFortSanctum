@@ -48,7 +48,7 @@ public class CamLock : NetworkBehaviour {
         Debug.DrawRay(camera.transform.position, camera.transform.TransformDirection(Vector3.forward) * 3.5f);
 
 
-        if (Input.GetKeyDown(KeyCode.E) && Physics.Raycast(myRay, out hit, 3.5f))
+        if (Input.GetKeyDown(KeyCode.E) && Physics.Raycast(myRay, out hit, 2f))
         {
 			#region Begin Scene
             if (hit.collider.CompareTag("KeyCell"))										//Key For the BeginScene
@@ -61,7 +61,18 @@ public class CamLock : NetworkBehaviour {
 			{
 				DooBEGINSCENE.cellGate = true;
 			}
-			#endregion
+
+            if (hit.collider.CompareTag("LeverPlayerLock"))                             //Opent en sluit de deuren naar progress
+            {
+                if (hit.collider.GetComponentInParent<LeverPlayerLock>().pulledDown == false)
+                {
+                    hit.collider.GetComponentInParent<LeverPlayerLock>().PullingDown();
+                } else if (hit.collider.GetComponentInParent<LeverPlayerLock>().pulledDown == true)
+                {
+                    hit.collider.GetComponentInParent<LeverPlayerLock>().PullingUp();
+                }
+            }
+            #endregion
         }
     }
 }
