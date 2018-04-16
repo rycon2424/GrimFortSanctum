@@ -379,6 +379,46 @@ Prefab:
       propertyPath: m_LocalEulerAnglesHint.z
       value: -180
       objectReference: {fileID: 0}
+    - target: {fileID: 4890780603434792, guid: 8d14682134fb0fd4f975706fb37fc738, type: 2}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4890780603434792, guid: 8d14682134fb0fd4f975706fb37fc738, type: 2}
+      propertyPath: m_LocalRotation.y
+      value: 0.7071068
+      objectReference: {fileID: 0}
+    - target: {fileID: 4890780603434792, guid: 8d14682134fb0fd4f975706fb37fc738, type: 2}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4890780603434792, guid: 8d14682134fb0fd4f975706fb37fc738, type: 2}
+      propertyPath: m_LocalRotation.w
+      value: 0.7071068
+      objectReference: {fileID: 0}
+    - target: {fileID: 4890780603434792, guid: 8d14682134fb0fd4f975706fb37fc738, type: 2}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 90
+      objectReference: {fileID: 0}
+    - target: {fileID: 4756171553146286, guid: 8d14682134fb0fd4f975706fb37fc738, type: 2}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4756171553146286, guid: 8d14682134fb0fd4f975706fb37fc738, type: 2}
+      propertyPath: m_LocalRotation.y
+      value: 0.7071068
+      objectReference: {fileID: 0}
+    - target: {fileID: 4756171553146286, guid: 8d14682134fb0fd4f975706fb37fc738, type: 2}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4756171553146286, guid: 8d14682134fb0fd4f975706fb37fc738, type: 2}
+      propertyPath: m_LocalRotation.w
+      value: 0.7071068
+      objectReference: {fileID: 0}
+    - target: {fileID: 4756171553146286, guid: 8d14682134fb0fd4f975706fb37fc738, type: 2}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 90
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: 8d14682134fb0fd4f975706fb37fc738, type: 2}
   m_IsPrefabParent: 0
@@ -3201,6 +3241,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   pulledDown: 0
+  delay: 1
   door1: {fileID: 640375363}
   door2: {fileID: 1133533798}
   door1OpenQuaternion: {x: 0, y: 0.707, z: 0, w: -0.707}
