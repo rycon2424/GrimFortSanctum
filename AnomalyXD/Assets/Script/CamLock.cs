@@ -50,11 +50,18 @@ public class CamLock : NetworkBehaviour {
 
         if (Input.GetKeyDown(KeyCode.E) && Physics.Raycast(myRay, out hit, 3.5f))
         {
-            if (hit.collider.CompareTag("Untagged"))
+			#region Begin Scene
+            if (hit.collider.CompareTag("KeyCell"))										//Key For the BeginScene
             {
-                Debug.Log("yay een Untagged GameObject");
-                //maak hier het event als je de tag raakt
+				DooBEGINSCENE.haveKey = true;
+				Destroy (hit.collider.gameObject);
             }
+
+			if (hit.collider.CompareTag("Lock") && DooBEGINSCENE.haveKey == true)		//Lock in the BeginScene
+			{
+				DooBEGINSCENE.cellGate = true;
+			}
+			#endregion
         }
     }
 }
