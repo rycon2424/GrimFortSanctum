@@ -1,11 +1,10 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
-using UnityEngine.Networking;
 
-public class LeverPlayerLock : NetworkBehaviour {
+public class LeverPlayerLock : MonoBehaviour {
 
-    public bool pulledDown;
+    public static bool pulledDown;
 
     public float delay = 1f;
 
