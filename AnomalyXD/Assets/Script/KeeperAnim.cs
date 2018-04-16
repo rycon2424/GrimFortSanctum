@@ -63,7 +63,7 @@ public class KeeperAnim : NetworkBehaviour {
 
 	IEnumerator Cooldown()
 	{
-		yield return new WaitForSeconds (3f);
+		yield return new WaitForSeconds (2f);
 		anim.SetInteger ("State", 0);
 		jumpUse = true;
 	}

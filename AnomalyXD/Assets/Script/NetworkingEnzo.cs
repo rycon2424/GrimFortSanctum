@@ -17,14 +17,14 @@ public class NetworkingEnzo : NetworkManager {
 	public override void OnServerAddPlayer(NetworkConnection conn, short playerControllerId)
 	{
 		if (isKeeper == true) {
-			keeper = Instantiate(Resources.Load("KEEPERBUTTHEREALONE"), transform.position, Quaternion.identity) as GameObject;
+			keeper = Instantiate(Resources.Load("KEEPERBUTTHEREALONE"), new Vector3(2.4f, 1, 9), Quaternion.identity) as GameObject;
 
 			NetworkServer.AddPlayerForConnection(conn, keeper, playerControllerId);
 			isKeeper = false;
 		}
 		else if (isKeeper == false)
 		{
-			escapist = Instantiate(Resources.Load("ESCAPISTBUTTHEREALONE 1"), transform.position, Quaternion.identity) as GameObject;
+			escapist = Instantiate(Resources.Load("ESCAPISTBUTTHEREALONE 1"), new Vector3(7.7f, 1, -6.3f), Quaternion.identity) as GameObject;
 
 			NetworkServer.AddPlayerForConnection(conn, escapist, playerControllerId);
 			isKeeper = true;
