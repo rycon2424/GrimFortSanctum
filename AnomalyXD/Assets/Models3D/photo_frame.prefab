@@ -21,8 +21,8 @@ GameObject:
   - component: {fileID: 4573051959629174}
   - component: {fileID: 33964815500732824}
   - component: {fileID: 23485053812303046}
-  - component: {fileID: 64600185701936296}
   - component: {fileID: 54514575088982306}
+  - component: {fileID: 65657333740101992}
   m_Layer: 0
   m_Name: photo_frame
   m_TagString: Untagged
@@ -37,8 +37,8 @@ Transform:
   m_PrefabInternal: {fileID: 100100000}
   m_GameObject: {fileID: 1978837020624716}
   m_LocalRotation: {x: -0, y: 0.9659254, z: -0, w: 0.25882068}
-  m_LocalPosition: {x: 9.825, y: 1.0474157, z: 7.502}
-  m_LocalScale: {x: 0.0100000035, y: 0.01, z: 0.0100000035}
+  m_LocalPosition: {x: -8.624162, y: 1.01, z: -2.8654523}
+  m_LocalScale: {x: 0.010000007, y: 0.01, z: 0.010000007}
   m_Children: []
   m_Father: {fileID: 0}
   m_RootOrder: 0
@@ -99,8 +99,8 @@ Rigidbody:
   m_Interpolate: 0
   m_Constraints: 0
   m_CollisionDetection: 0
---- !u!64 &64600185701936296
-MeshCollider:
+--- !u!65 &65657333740101992
+BoxCollider:
   m_ObjectHideFlags: 1
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 100100000}
@@ -108,8 +108,6 @@ MeshCollider:
   m_Material: {fileID: 0}
   m_IsTrigger: 0
   m_Enabled: 1
-  serializedVersion: 3
-  m_Convex: 0
-  m_CookingOptions: 14
-  m_SkinWidth: 0.01
-  m_Mesh: {fileID: 4300002, guid: 8329db4d33f1198408ab313c5d861966, type: 3}
+  serializedVersion: 2
+  m_Size: {x: 21.700956, y: 26.92827, z: 9.654475}
+  m_Center: {x: 0, y: 13.464135, z: 0}
