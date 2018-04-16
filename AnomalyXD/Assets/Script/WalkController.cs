@@ -24,6 +24,7 @@ public class WalkController : NetworkBehaviour {
 
 		selfRigidbody = GetComponent<Rigidbody> ();
 		Cursor.lockState = CursorLockMode.Locked;
+		Cursor.visible = false;
 	}
 
 	void Update () 
@@ -51,11 +52,13 @@ public class WalkController : NetworkBehaviour {
 		if (Input.GetKeyDown("escape"))
 		{
 			Cursor.lockState = CursorLockMode.None;
+			Cursor.visible = true;
 		}
 
 		if (Input.GetMouseButtonDown(0) && Cursor.lockState == CursorLockMode.None)
 		{
 			Cursor.lockState = CursorLockMode.Locked;
+			Cursor.visible = false;
 		}
 	}
 
