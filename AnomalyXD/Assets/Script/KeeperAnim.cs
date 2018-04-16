@@ -7,7 +7,6 @@ public class KeeperAnim : NetworkBehaviour {
 
 	private Animator anim;
 	private bool jumpUse = true;
-	private Rigidbody selfRigidbody;
 
 	void Start () 
 	{
@@ -15,7 +14,6 @@ public class KeeperAnim : NetworkBehaviour {
 		{
 			return;
 		}
-		selfRigidbody = GetComponent<Rigidbody> ();
 		anim = GetComponent<Animator> ();
 	}
 
@@ -58,7 +56,6 @@ public class KeeperAnim : NetworkBehaviour {
 			Input.GetKeyUp(KeyCode.D) || Input.GetKeyUp(KeyCode.S) || (Input.GetKeyUp(KeyCode.Space)))
 		{
 			anim.SetInteger ("State", 0);
-			selfRigidbody.velocity = Vector3.zero;
 		}
 	}
 
