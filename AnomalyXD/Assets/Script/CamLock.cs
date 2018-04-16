@@ -64,10 +64,10 @@ public class CamLock : NetworkBehaviour {
 
             if (hit.collider.CompareTag("LeverPlayerLock"))                             //Opent en sluit de deuren naar progress
             {
-                if (hit.collider.GetComponentInParent<LeverPlayerLock>().pulledDown == false)
+                if (LeverPlayerLock.pulledDown == false)
                 {
                     hit.collider.GetComponentInParent<LeverPlayerLock>().PullingDown();
-                } else if (hit.collider.GetComponentInParent<LeverPlayerLock>().pulledDown == true)
+                } else if (LeverPlayerLock.pulledDown == true)
                 {
                     hit.collider.GetComponentInParent<LeverPlayerLock>().PullingUp();
                 }
