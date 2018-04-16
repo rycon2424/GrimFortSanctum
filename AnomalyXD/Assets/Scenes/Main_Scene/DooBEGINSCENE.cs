@@ -8,6 +8,9 @@ public class DooBEGINSCENE : MonoBehaviour {
 	public static bool haveKey = false;
 	bool doOnce = true;
 	bool startRotating = false;
+
+    public GameObject door1;
+    public GameObject door2;
 	
 	// Update is called once per frame
 	void Update () 
@@ -21,8 +24,10 @@ public class DooBEGINSCENE : MonoBehaviour {
 		if (startRotating == true) 
 		{
 			transform.Rotate (new Vector3 (0, 2, 0));
-		}
-	}
+            door1.transform.localRotation = new Quaternion(0, 0.707f, 0, 0.707f);
+            door2.transform.localRotation = new Quaternion(0, 0.707f, 0, 0.707f);
+        }
+    }
 
 	IEnumerator openGate()
 	{

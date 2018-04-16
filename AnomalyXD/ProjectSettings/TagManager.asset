@@ -6,6 +6,7 @@ TagManager:
   tags:
   - KeyCell
   - Lock
+  - LeverPlayerLock
   layers:
   - Default
   - TransparentFX
