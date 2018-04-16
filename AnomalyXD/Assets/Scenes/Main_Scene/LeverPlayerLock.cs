@@ -6,6 +6,8 @@ public class LeverPlayerLock : MonoBehaviour {
 
     public bool pulledDown;
 
+    public float delay = 1f;
+
     public GameObject door1;
     public GameObject door2;
 
@@ -33,5 +35,12 @@ public class LeverPlayerLock : MonoBehaviour {
         transform.localRotation = new Quaternion(0.259f, 0, 0, 0.966f);
         door1.transform.localRotation = door1OpenQuaternion;
         door2.transform.localRotation = door2OpenQuaternion;
+        StartCoroutine(PulledBackUp());
+    }
+
+    IEnumerator PulledBackUp()
+    {
+        yield return new WaitForSeconds(delay);
+        PullingUp();
     }
 }
