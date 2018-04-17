@@ -4382,7 +4382,8 @@ Prefab:
       propertyPath: m_StaticEditorFlags
       value: 0
       objectReference: {fileID: 0}
-    m_RemovedComponents: []
+    m_RemovedComponents:
+    - {fileID: 64405788512078632, guid: 3c36dadfe6bc6514e90de281068ebdd7, type: 2}
   m_ParentPrefab: {fileID: 100100000, guid: 3c36dadfe6bc6514e90de281068ebdd7, type: 2}
   m_IsPrefabParent: 0
 --- !u!1 &602882448 stripped
@@ -11629,7 +11630,19 @@ Prefab:
       propertyPath: m_StaticEditorFlags
       value: 0
       objectReference: {fileID: 0}
-    m_RemovedComponents: []
+    - target: {fileID: 64991003619098750, guid: b40547ef60ef14543832f62b829d0199,
+        type: 2}
+      propertyPath: m_Convex
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 64268245230533490, guid: b40547ef60ef14543832f62b829d0199,
+        type: 2}
+      propertyPath: m_Convex
+      value: 1
+      objectReference: {fileID: 0}
+    m_RemovedComponents:
+    - {fileID: 64991003619098750, guid: b40547ef60ef14543832f62b829d0199, type: 2}
+    - {fileID: 64268245230533490, guid: b40547ef60ef14543832f62b829d0199, type: 2}
   m_ParentPrefab: {fileID: 100100000, guid: b40547ef60ef14543832f62b829d0199, type: 2}
   m_IsPrefabParent: 0
 --- !u!1001 &1554474958
