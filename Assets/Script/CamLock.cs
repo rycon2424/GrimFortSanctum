@@ -50,6 +50,10 @@ public class CamLock : NetworkBehaviour {
 			#region Begin Scene
             if (hit.collider.CompareTag("KeyCell"))										//Key For the BeginScene
             {
+				if (!isLocalPlayer)
+				{
+					return;
+				}
 				DooBEGINSCENE.haveKey = true;
 				Destroy (hit.collider.gameObject);
             }
