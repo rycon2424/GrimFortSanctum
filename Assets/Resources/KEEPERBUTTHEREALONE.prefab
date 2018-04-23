@@ -2157,7 +2157,7 @@ MonoBehaviour:
   m_SyncSpin: 0
   m_MovementTheshold: 0.001
   m_VelocityThreshold: 0.0001
-  m_SnapThreshold: 0.01
+  m_SnapThreshold: 0.00005
   m_InterpolateRotation: 1
   m_InterpolateMovement: 1
 --- !u!114 &114279739137862774
@@ -2173,7 +2173,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   sensitivity: 3
   smoothing: 0.5
-  camera: {fileID: 0}
+  camera: {fileID: 1473153513765764}
 --- !u!114 &114470033579892694
 MonoBehaviour:
   m_ObjectHideFlags: 1

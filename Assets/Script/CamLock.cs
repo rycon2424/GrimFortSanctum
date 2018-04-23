@@ -22,7 +22,6 @@ public class CamLock : NetworkBehaviour {
 			return;
 		}
 		character = gameObject;
-		camera = this.gameObject.transform.GetChild (0).gameObject;
 	}
 
 	void Update () 
